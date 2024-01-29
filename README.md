@@ -1,5 +1,8 @@
 # Inpatient Claim Simulation and Fraud Detection
-
+<!-- badges: start -->
+![GitHub](https://img.shields.io/github/license/mad-lab-fau/inpatient-claims-simulator)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10581728.svg)](https://doi.org/10.5281/zenodo.10581728)
+<!-- badges: end -->
 This is the repository for the "Simulation and Detection of Healthcare Fraud in German Inpatient Claims Data" paper submitted to ICCS 2024 in the Health Thematic Track.
 
 ## Description
