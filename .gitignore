@@ -1,0 +1,7 @@
+profiling/
+.vscode/
+
+py/__pycache__/
+
+*.pyc
+config.py

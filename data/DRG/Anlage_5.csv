@@ -1,0 +1,1341 @@
+﻿ZE;Bezeichnung;ZED;OPS-Kode;OPS-Text;Betrag
+ZE01.01;Hämodialyse, intermittierend, Alter > 14 Jahre;;8-854.2;Hämodialyse: Intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE01.01;Hämodialyse, intermittierend, Alter > 14 Jahre;;8-854.3;Hämodialyse: Intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE01.01;Hämodialyse, intermittierend, Alter > 14 Jahre;;8-854.4;Hämodialyse: Verlängert intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE01.01;Hämodialyse, intermittierend, Alter > 14 Jahre;;8-854.5;Hämodialyse: Verlängert intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE01.02;Hämodialyse, intermittierend, Alter < 15 Jahre;;8-854.2;Hämodialyse: Intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE01.02;Hämodialyse, intermittierend, Alter < 15 Jahre;;8-854.3;Hämodialyse: Intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE01.02;Hämodialyse, intermittierend, Alter < 15 Jahre;;8-854.4;Hämodialyse: Verlängert intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE01.02;Hämodialyse, intermittierend, Alter < 15 Jahre;;8-854.5;Hämodialyse: Verlängert intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE02;Hämodiafiltration, intermittierend;;8-855.3;Hämodiafiltration: Intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE02;Hämodiafiltration, intermittierend;;8-855.4;Hämodiafiltration: Intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE02;Hämodiafiltration, intermittierend;;8-855.5;Hämodiafiltration: Verlängert intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE02;Hämodiafiltration, intermittierend;;8-855.6;Hämodiafiltration: Verlängert intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE09;Vollimplantierbare Medikamentenpumpe mit programmierbarem variablen Tagesprofil;;5-028.11;Funktionelle Eingriffe an Schädel, Gehirn und Hirnhäuten: Implantation oder Wechsel einer Medikamentenpumpe zur intraventrikulären Infusion: Vollimplantierbare Medikamentenpumpe mit programmierbarem variablen Tagesprofil;siehe Anlage 2
+ZE09;Vollimplantierbare Medikamentenpumpe mit programmierbarem variablen Tagesprofil;;5-038.41;Operationen am spinalen Liquorsystem: Implantation oder Wechsel einer Medikamentenpumpe zur intrathekalen und/oder epiduralen Infusion: Vollimplantierbare Medikamentenpumpe mit programmierbarem variablen Tagesprofil;siehe Anlage 2
+ZE10;Künstlicher Blasenschließmuskel;;5-597.0*;Eingriffe bei artifiziellem Harnblasensphinkter: Implantation;siehe Anlage 2
+ZE10;Künstlicher Blasenschließmuskel;;5-597.30;Eingriffe bei artifiziellem Harnblasensphinkter: Wechsel: Vollständig, bulbär, 1 Cuff;siehe Anlage 2
+ZE10;Künstlicher Blasenschließmuskel;;5-597.31;Eingriffe bei artifiziellem Harnblasensphinkter: Wechsel: Vollständig, bulbär, 2 Cuffs;siehe Anlage 2
+ZE10;Künstlicher Blasenschließmuskel;;5-597.32;Eingriffe bei artifiziellem Harnblasensphinkter: Wechsel: Vollständig, am Blasenhals;siehe Anlage 2
+ZE11;Wirbelkörperersatz;;;Wirbelkörperersatz und komplexe Rekonstruktion der Wirbelsäule: Wirbelkörperersatz durch Implantat;Wirbelkörperersatz und komplexe Rekonstruktion der Wirbelsäule: Wirbelkörperersatz durch Implantat
+ZE11;Wirbelkörperersatz;ZE11.01;5-837.00;1 Wirbelkörper;832,87 €
+ZE11;Wirbelkörperersatz;ZE11.02;5-837.01;2 Wirbelkörper;1.448,82 €
+ZE11;Wirbelkörperersatz;ZE11.03;5-837.02;3 Wirbelkörper;2.064,77 €
+ZE11;Wirbelkörperersatz;ZE11.04;5-837.04;4 Wirbelkörper;2.680,72 €
+ZE11;Wirbelkörperersatz;ZE11.05;5-837.05;5 oder mehr Wirbelkörper;3.296,67 €
+ZE17;Gabe von Gemcitabin, parenteral;;;Applikation von Medikamenten, Liste 1: Gemcitabin, parenteral;Applikation von Medikamenten, Liste 1: Gemcitabin, parenteral
+ZE17;Gabe von Gemcitabin, parenteral;ZE17.10;6-001.19;19,0 g bis unter 22,0 g;209,13 €
+ZE17;Gabe von Gemcitabin, parenteral;ZE17.11;6-001.1a;22,0 g bis unter 25,0 g;240,50 €
+ZE17;Gabe von Gemcitabin, parenteral;ZE17.12;6-001.1b;25,0 g bis unter 28,0 g;271,87 €
+ZE17;Gabe von Gemcitabin, parenteral;ZE17.13;6-001.1c;28,0 g bis unter 31,0 g;303,24 €
+ZE17;Gabe von Gemcitabin, parenteral;ZE17.14;6-001.1d;31,0 g bis unter 34,0 g;334,61 €
+ZE17;Gabe von Gemcitabin, parenteral;ZE17.15;6-001.1e;34,0 g oder mehr;365,98 €
+ZE19;Gabe von Irinotecan, parenteral;;;Applikation von Medikamenten, Liste 1: Irinotecan, parenteral;Applikation von Medikamenten, Liste 1: Irinotecan, parenteral
+ZE19;Gabe von Irinotecan, parenteral;ZE19.14;6-001.3d;2.000 mg bis unter 2.200 mg;146,32 €
+ZE19;Gabe von Irinotecan, parenteral;ZE19.15;6-001.3e;2.200 mg bis unter 2.400 mg;160,48 €
+ZE19;Gabe von Irinotecan, parenteral;ZE19.16;6-001.3f;2.400 mg bis unter 2.600 mg;174,64 €
+ZE19;Gabe von Irinotecan, parenteral;ZE19.17;6-001.3g;2.600 mg bis unter 2.800 mg;188,80 €
+ZE19;Gabe von Irinotecan, parenteral;ZE19.18;6-001.3h;2.800 mg bis unter 3.000 mg;202,96 €
+ZE19;Gabe von Irinotecan, parenteral;ZE19.19;6-001.3j;3.000 mg oder mehr;217,12 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;;;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Prothrombinkomplex;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Prothrombinkomplex
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.02;8-812.53;3.500 IE bis unter 4.500 IE;868,28 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.03;8-812.54;4.500 IE bis unter 5.500 IE;1.103,45 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.04;8-812.55;5.500 IE bis unter 6.500 IE;1.331,75 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.05;8-812.56;6.500 IE bis unter 7.500 IE;1.560,05 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.06;8-812.57;7.500 IE bis unter 8.500 IE;1.788,35 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.07;8-812.58;8.500 IE bis unter 9.500 IE;2.016,12 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.08;8-812.59;9.500 IE bis unter 10.500 IE;2.241,42 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.09;8-812.5a;10.500 IE bis unter 15.500 IE;2.777,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.10;8-812.5b;15.500 IE bis unter 20.500 IE;3.919,15 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.11;8-812.5c;20.500 IE bis unter 25.500 IE;5.060,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.12;8-812.5d;25.500 IE bis unter 30.500 IE;6.202,15 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.13;;Siehe weitere Differenzierung ZE30.14 - ZE30.23;
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.14;8-812.5f;30.500 IE bis unter 40.500 IE;7.533,90 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.15;8-812.5g;40.500 IE bis unter 50.500 IE;9.816,90 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.16;8-812.5h;50.500 IE bis unter 60.500 IE;12.099,90 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.17;8-812.5j;60.500 IE bis unter 80.500 IE;14.953,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.18;8-812.5k;80.500 IE bis unter 100.500 IE;19.519,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.19;8-812.5m;100.500 IE bis unter 120.500 IE;24.085,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.20;8-812.5n;120.500 IE bis unter 140.500 IE;28.651,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.21;8-812.5p;140.500 IE bis unter 160.500 IE;33.217,65 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.22;8-812.5q;160.500 IE bis unter 200.500 IE;38.925,15 €
+ZE30;Gabe von Prothrombinkomplex, parenteral;ZE30.23;8-812.5r;200.500 IE oder mehr;48.057,15 €
+ZE36;Plasmapherese;;;Therapeutische Plasmapherese;Therapeutische Plasmapherese
+ZE36;Plasmapherese;ZE36.01;8-820.00;1 Plasmapherese;1.099,79 €
+ZE36;Plasmapherese;ZE36.01;8-820.10;1 Plasmapherese;1099,79
+ZE36;Plasmapherese;ZE36.01;8-820.20;1 Plasmapherese;1099,79
+ZE36;Plasmapherese;ZE36.01;8-826.*0;1 Doppelfiltrationsplasmapherese;1099,79
+ZE36;Plasmapherese;ZE36.02;8-820.01;2 Plasmapheresen;2.199,58 €
+ZE36;Plasmapherese;ZE36.02;8-820.11;2 Plasmapheresen;2199,58
+ZE36;Plasmapherese;ZE36.02;8-820.21;2 Plasmapheresen;2199,58
+ZE36;Plasmapherese;ZE36.02;8-826.*1;2 Doppelfiltrationsplasmapheresen;2199,58
+ZE36;Plasmapherese;ZE36.03;8-820.02;3 Plasmapheresen;3.299,37 €
+ZE36;Plasmapherese;ZE36.03;8-820.12;3 Plasmapheresen;3299,37
+ZE36;Plasmapherese;ZE36.03;8-820.22;3 Plasmapheresen;3299,37
+ZE36;Plasmapherese;ZE36.03;8-826.*2;3 Doppelfiltrationsplasmapheresen;3299,37
+ZE36;Plasmapherese;ZE36.04;8-820.03;4 Plasmapheresen;4.399,16 €
+ZE36;Plasmapherese;ZE36.04;8-820.13;4 Plasmapheresen;4399,16
+ZE36;Plasmapherese;ZE36.04;8-820.23;4 Plasmapheresen;4399,16
+ZE36;Plasmapherese;ZE36.04;8-826.*3;4 Doppelfiltrationsplasmapheresen;4399,16
+ZE36;Plasmapherese;ZE36.05;8-820.04;5 Plasmapheresen;5.498,95 €
+ZE36;Plasmapherese;ZE36.05;8-820.14;5 Plasmapheresen;5498,95
+ZE36;Plasmapherese;ZE36.05;8-820.24;5 Plasmapheresen;5498,95
+ZE36;Plasmapherese;ZE36.05;8-826.*4;5 Doppelfiltrationsplasmapheresen;5498,95
+ZE36;Plasmapherese;ZE36.06;8-820.08;6 Plasmapheresen;6.598,74 €
+ZE36;Plasmapherese;ZE36.06;8-820.18;6 Plasmapheresen;6598,74
+ZE36;Plasmapherese;ZE36.06;8-820.25;6 Plasmapheresen;6598,74
+ZE36;Plasmapherese;ZE36.06;8-826.*5;6 Doppelfiltrationsplasmapheresen;6598,74
+ZE36;Plasmapherese;ZE36.07;8-820.09;7 Plasmapheresen;7.698,53 €
+ZE36;Plasmapherese;ZE36.07;8-820.19;7 Plasmapheresen;7698,53
+ZE36;Plasmapherese;ZE36.07;8-820.26;7 Plasmapheresen;7698,53
+ZE36;Plasmapherese;ZE36.07;8-826.*6;7 Doppelfiltrationsplasmapheresen;7698,53
+ZE36;Plasmapherese;ZE36.08;8-820.0a;8 Plasmapheresen;8.798,32 €
+ZE36;Plasmapherese;ZE36.08;8-820.1a;8 Plasmapheresen;8798,32
+ZE36;Plasmapherese;ZE36.08;8-820.27;8 Plasmapheresen;8798,32
+ZE36;Plasmapherese;ZE36.08;8-826.*7;8 Doppelfiltrationsplasmapheresen;8798,32
+ZE36;Plasmapherese;ZE36.09;8-820.0b;9 Plasmapheresen;9.898,11 €
+ZE36;Plasmapherese;ZE36.09;8-820.1b;9 Plasmapheresen;9898,11
+ZE36;Plasmapherese;ZE36.09;8-820.28;9 Plasmapheresen;9898,11
+ZE36;Plasmapherese;ZE36.09;8-826.*8;9 Doppelfiltrationsplasmapheresen;9898,11
+ZE36;Plasmapherese;ZE36.10;8-820.0c;10 Plasmapheresen;10.997,90 €
+ZE36;Plasmapherese;ZE36.10;8-820.1c;10 Plasmapheresen;10997,9
+ZE36;Plasmapherese;ZE36.10;8-820.29;10 Plasmapheresen;10997,9
+ZE36;Plasmapherese;ZE36.10;8-826.*9;10 Doppelfiltrationsplasmapheresen;10997,9
+ZE36;Plasmapherese;ZE36.11;8-820.0d;11 Plasmapheresen;12.097,69 €
+ZE36;Plasmapherese;ZE36.11;8-820.1d;11 Plasmapheresen;12097,69
+ZE36;Plasmapherese;ZE36.11;8-820.2a;11 Plasmapheresen;12097,69
+ZE36;Plasmapherese;ZE36.11;8-826.*a;11 Doppelfiltrationsplasmapheresen;12097,69
+ZE36;Plasmapherese;ZE36.12;8-820.0e;12 Plasmapheresen;13.197,48 €
+ZE36;Plasmapherese;ZE36.12;8-820.1e;12 Plasmapheresen;13197,48
+ZE36;Plasmapherese;ZE36.12;8-820.2b;12 Plasmapheresen;13197,48
+ZE36;Plasmapherese;ZE36.12;8-826.*b;12 Doppelfiltrationsplasmapheresen;13197,48
+ZE36;Plasmapherese;ZE36.13;8-820.0f;13 Plasmapheresen;14.297,27 €
+ZE36;Plasmapherese;ZE36.13;8-820.1f;13 Plasmapheresen;14297,27
+ZE36;Plasmapherese;ZE36.13;8-820.2c;13 Plasmapheresen;14297,27
+ZE36;Plasmapherese;ZE36.13;8-826.*c;13 Doppelfiltrationsplasmapheresen;14297,27
+ZE36;Plasmapherese;ZE36.14;8-820.0g;14 Plasmapheresen;15.397,06 €
+ZE36;Plasmapherese;ZE36.14;8-820.1g;14 Plasmapheresen;15397,06
+ZE36;Plasmapherese;ZE36.14;8-820.2d;14 Plasmapheresen;15397,06
+ZE36;Plasmapherese;ZE36.14;8-826.*d;14 Doppelfiltrationsplasmapheresen;15397,06
+ZE36;Plasmapherese;ZE36.15;8-820.0h;15 Plasmapheresen;16.496,85 €
+ZE36;Plasmapherese;ZE36.15;8-820.1h;15 Plasmapheresen;16496,85
+ZE36;Plasmapherese;ZE36.15;8-820.2e;15 Plasmapheresen;16496,85
+ZE36;Plasmapherese;ZE36.15;8-826.*e;15 Doppelfiltrationsplasmapheresen;16496,85
+ZE36;Plasmapherese;ZE36.16;8-820.0j;16 bis 17 Plasmapheresen;18.146,54 €
+ZE36;Plasmapherese;ZE36.16;8-820.1j;16 bis 17 Plasmapheresen;18146,54
+ZE36;Plasmapherese;ZE36.16;8-820.2f;16 bis 17 Plasmapheresen;18146,54
+ZE36;Plasmapherese;ZE36.16;8-826.*f;16 bis 17 Doppelfiltrationsplasmapheresen;18146,54
+ZE36;Plasmapherese;ZE36.17;8-820.0k;18 bis 19 Plasmapheresen;20.346,12 €
+ZE36;Plasmapherese;ZE36.17;8-820.1k;18 bis 19 Plasmapheresen;20346,12
+ZE36;Plasmapherese;ZE36.17;8-820.2g;18 bis 19 Plasmapheresen;20346,12
+ZE36;Plasmapherese;ZE36.17;8-826.*g;18 bis 19 Doppelfiltrationsplasmapheresen;20346,12
+ZE36;Plasmapherese;ZE36.18;8-820.0m;20 bis 21 Plasmapheresen;22.545,70 €
+ZE36;Plasmapherese;ZE36.18;8-820.1m;20 bis 21 Plasmapheresen;22545,7
+ZE36;Plasmapherese;ZE36.18;8-820.2h;20 bis 21 Plasmapheresen;22545,7
+ZE36;Plasmapherese;ZE36.18;8-826.*h;20 bis 21 Doppelfiltrationsplasmapheresen;22545,7
+ZE36;Plasmapherese;ZE36.19;8-820.0n;22 bis 23 Plasmapheresen;24.745,28 €
+ZE36;Plasmapherese;ZE36.19;8-820.1n;22 bis 23 Plasmapheresen;24745,28
+ZE36;Plasmapherese;ZE36.19;8-820.2j;22 bis 23 Plasmapheresen;24745,28
+ZE36;Plasmapherese;ZE36.19;8-826.*j;22 bis 23 Doppelfiltrationsplasmapheresen;24745,28
+ZE36;Plasmapherese;ZE36.20;8-820.0p;24 bis 25 Plasmapheresen;26.944,86 €
+ZE36;Plasmapherese;ZE36.20;8-820.1p;24 bis 25 Plasmapheresen;26944,86
+ZE36;Plasmapherese;ZE36.20;8-820.2k;24 bis 25 Plasmapheresen;26944,86
+ZE36;Plasmapherese;ZE36.20;8-826.*k;24 bis 25 Doppelfiltrationsplasmapheresen;26944,86
+ZE36;Plasmapherese;ZE36.21;8-820.0q;26 bis 28 Plasmapheresen;29.694,33 €
+ZE36;Plasmapherese;ZE36.21;8-820.1q;26 bis 28 Plasmapheresen;29694,33
+ZE36;Plasmapherese;ZE36.21;8-820.2m;26 bis 28 Plasmapheresen;29694,33
+ZE36;Plasmapherese;ZE36.21;8-826.*m;26 bis 28 Doppelfiltrationsplasmapheresen;29694,33
+ZE36;Plasmapherese;ZE36.22;8-820.0r;29 bis 31 Plasmapheresen;32.993,70 €
+ZE36;Plasmapherese;ZE36.22;8-820.1r;29 bis 31 Plasmapheresen;32993,7
+ZE36;Plasmapherese;ZE36.22;8-820.2n;29 bis 31 Plasmapheresen;32993,7
+ZE36;Plasmapherese;ZE36.22;8-826.*n;29 bis 31 Doppelfiltrationsplasmapheresen;32993,7
+ZE36;Plasmapherese;ZE36.23;8-820.0s;32 bis 34 Plasmapheresen;36.293,07 €
+ZE36;Plasmapherese;ZE36.23;8-820.1s;32 bis 34 Plasmapheresen;36293,07
+ZE36;Plasmapherese;ZE36.23;8-820.2p;32 bis 34 Plasmapheresen;36293,07
+ZE36;Plasmapherese;ZE36.23;8-826.*p;32 bis 34 Doppelfiltrationsplasmapheresen;36293,07
+ZE36;Plasmapherese;ZE36.24;8-820.0t;35 bis 39 Plasmapheresen;40.692,23 €
+ZE36;Plasmapherese;ZE36.24;8-820.1t;35 bis 39 Plasmapheresen;40692,23
+ZE36;Plasmapherese;ZE36.24;8-820.2q;35 bis 39 Plasmapheresen;40692,23
+ZE36;Plasmapherese;ZE36.24;8-826.*q;35 bis 39 Doppelfiltrationsplasmapheresen;40692,23
+ZE36;Plasmapherese;ZE36.25;8-820.0u;40 bis 44 Plasmapheresen;46.191,18 €
+ZE36;Plasmapherese;ZE36.25;8-820.1u;40 bis 44 Plasmapheresen;46191,18
+ZE36;Plasmapherese;ZE36.25;8-820.2r;40 bis 44 Plasmapheresen;46191,18
+ZE36;Plasmapherese;ZE36.25;8-826.*r;40 bis 44 Doppelfiltrationsplasmapheresen;46191,18
+ZE36;Plasmapherese;ZE36.26;8-820.0v;45 bis 49 Plasmapheresen;51.690,13 €
+ZE36;Plasmapherese;ZE36.26;8-820.1v;45 bis 49 Plasmapheresen;51690,13
+ZE36;Plasmapherese;ZE36.26;8-820.2s;45 bis 49 Plasmapheresen;51690,13
+ZE36;Plasmapherese;ZE36.26;8-826.*s;45 bis 49 Doppelfiltrationsplasmapheresen;51690,13
+ZE36;Plasmapherese;ZE36.27;8-820.0w;50 oder mehr Plasmapheresen;57.189,08 €
+ZE36;Plasmapherese;ZE36.27;8-820.1w;50 oder mehr Plasmapheresen;57189,08
+ZE36;Plasmapherese;ZE36.27;8-820.2t;50 oder mehr Plasmapheresen;57189,08
+ZE36;Plasmapherese;ZE36.27;8-826.*t;50 oder mehr Doppelfiltrationsplasmapheresen;57189,08
+ZE37;Extrakorporale Photopherese;;8-824;Photopherese;siehe Anlage 2
+ZE44;Gabe von Topotecan, parenteral;;;Applikation von Medikamenten, Liste 2: Topotecan, parenteral;Applikation von Medikamenten, Liste 2: Topotecan, parenteral
+ZE44;Gabe von Topotecan, parenteral;ZE44.01;6-002.4c;30,0 mg bis unter 40,0 mg;93,26 €
+ZE44;Gabe von Topotecan, parenteral;ZE44.02;6-002.4d;40,0 mg bis unter 50,0 mg;121,24 €
+ZE44;Gabe von Topotecan, parenteral;ZE44.03;6-002.4e;50,0 mg bis unter 60,0 mg;149,22 €
+ZE44;Gabe von Topotecan, parenteral;ZE44.04;6-002.4f;60,0 mg bis unter 70,0 mg;177,20 €
+ZE44;Gabe von Topotecan, parenteral;ZE44.05;6-002.4g;70,0 mg oder mehr;205,18 €
+ZE47;Gabe von Antithrombin III, parenteral;;;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Antithrombin III;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Antithrombin III
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.016);8-810.g1;2.000 IE bis unter 3.500 IE;148,75 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.026);8-810.g2;3.500 IE bis unter 5.000 IE;238,00 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.036);8-810.g3;5.000 IE bis unter 7.000 IE;337,17 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.04;8-810.g4;7.000 IE bis unter 10.000 IE;476,00 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.05;8-810.g5;10.000 IE bis unter 15.000 IE;694,17 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.06;8-810.g6;15.000 IE bis unter 20.000 IE;991,67 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.07;8-810.g7;20.000 IE bis unter 25.000 IE;1.289,17 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.08;8-810.g8;25.000 IE bis unter 30.000 IE;1.586,67 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.09;8-810.ga;30.000 IE bis unter 40.000 IE;1.983,33 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.10;8-810.gb;40.000 IE bis unter 50.000 IE;2.578,33 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.11;8-810.gc;50.000 IE bis unter 60.000 IE;3.173,33 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.12;8-810.gd;60.000 IE bis unter 70.000 IE;3.768,33 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.13;8-810.ge;70.000 IE bis unter 90.000 IE;4.561,67 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.14;8-810.gf;90.000 IE bis unter 110.000 IE;5.751,67 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.15;8-810.gg;110.000 IE bis unter 130.000 IE;6.941,67 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.16;8-810.gh;130.000 IE bis unter 150.000 IE;8.131,67 €
+ZE47;Gabe von Antithrombin III, parenteral;ZE47.17;8-810.gj;150.000 IE oder mehr;9.321,67 €
+ZE48;Gabe von Aldesleukin, parenteral;;;Applikation von Medikamenten, Liste 1: Aldesleukin, parenteral;Applikation von Medikamenten, Liste 1: Aldesleukin, parenteral
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.01;6-001.80;45 Mio. IE bis unter 65 Mio. IE;1.032,53 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.02;6-001.81;65 Mio. IE bis unter 85 Mio. IE;1.432,22 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.03;6-001.82;85 Mio. IE bis unter 105 Mio. IE;1.831,90 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.04;6-001.83;105 Mio. IE bis unter 125 Mio. IE;2.231,59 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.05;6-001.84;125 Mio. IE bis unter 145 Mio. IE;2.631,28 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.06;6-001.85;145 Mio. IE bis unter 165 Mio. IE;3.030,97 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.07;6-001.86;165 Mio. IE bis unter 185 Mio. IE;3.430,66 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.08;6-001.87;185 Mio. IE bis unter 205 Mio. IE;3.830,34 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.09;6-001.88;205 Mio. IE bis unter 245 Mio. IE;4.363,26 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.10;6-001.89;245 Mio. IE bis unter 285 Mio. IE;5.162,64 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.11;6-001.8a;285 Mio. IE bis unter 325 Mio. IE;5.962,01 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.12;6-001.8b;325 Mio. IE bis unter 365 Mio. IE;6.761,39 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.13;6-001.8c;365 Mio. IE bis unter 405 Mio. IE;7.560,76 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.14;6-001.8d;405 Mio. IE bis unter 445 Mio. IE;8.360,14 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.15;6-001.8e;445 Mio. IE bis unter 485 Mio. IE;9.159,52 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.16;6-001.8f;485 Mio. IE bis unter 525 Mio. IE;9.958,89 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.17;6-001.8g;525 Mio. IE bis unter 565 Mio. IE;10.758,27 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.18;6-001.8h;565 Mio. IE bis unter 625 Mio. IE;11.690,87 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.19;6-001.8j;625 Mio. IE bis unter 685 Mio. IE;12.889,94 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.20;6-001.8k;685 Mio. IE bis unter 745 Mio. IE;14.089,00 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.21;6-001.8m;745 Mio. IE bis unter 805 Mio. IE;15.288,07 €
+ZE48;Gabe von Aldesleukin, parenteral;ZE48.22;6-001.8n;805 Mio. IE oder mehr;16.487,13 €
+ZE50;Gabe von Cetuximab, parenteral;;;Applikation von Medikamenten, Liste 1: Cetuximab, parenteral;Applikation von Medikamenten, Liste 1: Cetuximab, parenteral
+ZE50;Gabe von Cetuximab, parenteral;ZE50.01;6-001.a0;250 mg bis unter 350 mg;721,82 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.02;6-001.a1;350 mg bis unter 450 mg;976,58 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.03;6-001.a2;450 mg bis unter 550 mg;1.231,34 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.04;6-001.a3;550 mg bis unter 650 mg;1.486,10 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.05;6-001.a4;650 mg bis unter 750 mg;1.740,86 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.06;6-001.a5;750 mg bis unter 850 mg;1.995,62 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.07;6-001.a6;850 mg bis unter 1.050 mg;2.335,30 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.08;6-001.a7;1.050 mg bis unter 1.250 mg;2.844,82 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.09;6-001.a8;1.250 mg bis unter 1.450 mg;3.354,34 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.10;6-001.a9;1.450 mg bis unter 1.650 mg;3.863,86 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.11;6-001.aa;1.650 mg bis unter 1.850 mg;4.373,38 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.12;6-001.ab;1.850 mg bis unter 2.150 mg;4.967,82 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.13;6-001.ac;2.150 mg bis unter 2.450 mg;5.732,10 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.14;6-001.ad;2.450 mg bis unter 2.750 mg;6.496,38 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.15;6-001.ae;2.750 mg bis unter 3.050 mg;7.260,66 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.16;6-001.af;3.050 mg bis unter 3.350 mg;8.024,94 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.17;;Siehe weitere Differenzierung ZE50.18 - ZE50.20;
+ZE50;Gabe von Cetuximab, parenteral;ZE50.18;6-001.ah;3.350 mg bis unter 3.950 mg;9.043,98 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.19;6-001.aj;3.950 mg bis unter 4.550 mg;10.572,54 €
+ZE50;Gabe von Cetuximab, parenteral;ZE50.20;6-001.ak;4.550 mg oder mehr;12.101,10 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;;;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen [HBsAg];Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen [HBsAg]
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.01;8-810.q0;2.000 IE bis unter 4.000 IE;1.669,40 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.02;8-810.q1;4.000 IE bis unter 6.000 IE;3.338,80 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.03;8-810.q2;6.000 IE bis unter 8.000 IE;5.008,20 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.04;8-810.q3;8.000 IE bis unter 10.000 IE;6.677,60 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.05;8-810.q4;10.000 IE bis unter 12.000 IE;8.347,00 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.06;8-810.q5;12.000 IE bis unter 14.000 IE;10.016,40 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.07;8-810.q6;14.000 IE bis unter 16.000 IE;11.685,80 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.08;8-810.q7;16.000 IE bis unter 18.000 IE;13.355,20 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.09;8-810.q8;18.000 IE bis unter 20.000 IE;15.024,60 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.10;8-810.q9;20.000 IE bis unter 22.000 IE;16.694,00 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.11;8-810.qa;22.000 IE bis unter 24.000 IE;18.363,40 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.12;8-810.qb;24.000 IE bis unter 28.000 IE;20.032,80 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.13;8-810.qc;28.000 IE bis unter 32.000 IE;23.371,60 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.14;8-810.qd;32.000 IE bis unter 36.000 IE;26.710,40 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.15;8-810.qe;36.000 IE bis unter 40.000 IE;30.049,20 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.16;8-810.qf;40.000 IE bis unter 46.000 IE;33.388,00 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.17;8-810.qg;46.000 IE bis unter 52.000 IE;38.396,20 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.18;8-810.qh;52.000 IE bis unter 58.000 IE;43.404,40 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.19;8-810.qj;58.000 IE bis unter 64.000 IE;48.412,60 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.20;;Siehe weitere Differenzierung ZE51.21 bis ZE51.25;
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.21;8-810.qm;64.000 IE bis unter 76.000 IE;53.420,80 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.22;8-810.qn;76.000 IE bis unter 88.000 IE;63.437,20 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.23;8-810.qp;88.000 IE bis unter 100.000 IE;73.453,60 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.24;8-810.qq;100.000 IE bis unter 112.000 IE;83.470,00 €
+ZE51;Gabe von Human-Immunglobulin, spezifisch gegen Hepatitis-B-surface-Antigen, parenteral;ZE51.25;8-810.qr;112.000 IE oder mehr;93.486,40 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;;;Applikation von Medikamenten, Liste 1: Liposomales Doxorubicin, parenteral;Applikation von Medikamenten, Liste 1: Liposomales Doxorubicin, parenteral
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.016);6-001.b0;10 mg bis unter 20 mg;285,05 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.026);6-001.b1;20 mg bis unter 30 mg;498,83 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.03;6-001.b2;30 mg bis unter 40 mg;712,62 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.04;6-001.b3;40 mg bis unter 50 mg;921,63 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.05;6-001.b4;50 mg bis unter 60 mg;1.115,11 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.06;6-001.b5;60 mg bis unter 70 mg;1.353,98 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.07;6-001.b6;70 mg bis unter 80 mg;1.567,76 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.08;6-001.b7;80 mg bis unter 90 mg;1.781,55 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.09;6-001.b8;90 mg bis unter 100 mg;1.995,34 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.10;6-001.b9;100 mg bis unter 110 mg;2.209,12 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.11;6-001.ba;110 mg bis unter 120 mg;2.422,91 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.12;6-001.bb;120 mg bis unter 140 mg;2.707,96 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.13;6-001.bc;140 mg bis unter 160 mg;3.135,53 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.14;6-001.bd;160 mg bis unter 180 mg;3.563,10 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.15;6-001.be;180 mg bis unter 200 mg;3.990,67 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.16;6-001.bf;200 mg bis unter 220 mg;4.418,24 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.17;6-001.bg;220 mg bis unter 240 mg;4.845,82 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.18;6-001.bh;240 mg bis unter 260 mg;5.273,39 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.19;6-001.bj;260 mg bis unter 280 mg;5.700,96 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.20;6-001.bk;280 mg bis unter 300 mg;6.128,53 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.21;6-001.bm;300 mg bis unter 320 mg;6.556,10 €
+ZE52;Gabe von Liposomalem Doxorubicin, parenteral;ZE52.22;6-001.bn;320 mg oder mehr;6.983,68 €
+ZE56;Vollimplantierbare Medikamentenpumpe mit konstanter Flussrate;;5-028.10;Funktionelle Eingriffe an Schädel, Gehirn und Hirnhäuten: Implantation oder Wechsel einer Medikamentenpumpe zur intraventrikulären Infusion: Vollimplantierbare Medikamentenpumpe mit konstanter Flussrate;siehe Anlage 2
+ZE56;Vollimplantierbare Medikamentenpumpe mit konstanter Flussrate;;5-038.40;Operationen am spinalen Liquorsystem: Implantation oder Wechsel einer Medikamentenpumpe zur intrathekalen und/oder epiduralen Infusion: Vollimplantierbare Medikamentenpumpe mit konstanter Flussrate;siehe Anlage 2
+ZE58;Hydraulische Penisprothesen;;5-649.51;Andere Operationen am Penis: Implantation einer Penisprothese: Hydraulische Prothese;siehe Anlage 2
+ZE58;Hydraulische Penisprothesen;;5-649.a1;Andere Operationen am Penis: Wechsel einer semirigiden Penisprothese: In eine hydraulische Prothese;siehe Anlage 2
+ZE58;Hydraulische Penisprothesen;;5-649.b1;Andere Operationen am Penis: Wechsel einer hydraulischen Penisprothese: Vollständig, in eine hydraulische Prothese;siehe Anlage 2
+ZE60;Palliativmedizinische Komplexbehandlung;ZE60.01;8-982.1;Palliativmedizinische Komplexbehandlung: Mindestens 7 bis höchstens 13 Behandlungstage;771,42 €
+ZE60;Palliativmedizinische Komplexbehandlung;ZE60.02;8-982.2;Palliativmedizinische Komplexbehandlung: Mindestens 14 bis höchstens 20 Behandlungstage;975,16 €
+ZE60;Palliativmedizinische Komplexbehandlung;ZE60.03;8-982.3;Palliativmedizinische Komplexbehandlung: Mindestens 21 Behandlungstage;1.102,16 €
+ZE61;LDL-Apherese;;8-822;LDL-Apherese;siehe Anlage 2
+ZE62;Hämofiltration, intermittierend;;8-853.3;Hämofiltration: Intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE62;Hämofiltration, intermittierend;;8-853.4;Hämofiltration: Intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE62;Hämofiltration, intermittierend;;8-853.5;Hämofiltration: Verlängert intermittierend, Antikoagulation mit Heparin oder ohne Antikoagulation;siehe Anlage 2
+ZE62;Hämofiltration, intermittierend;;8-853.6;Hämofiltration: Verlängert intermittierend, Antikoagulation mit sonstigen Substanzen;siehe Anlage 2
+ZE63;Gabe von Paclitaxel, parenteral;;;Applikation von Medikamenten, Liste 1: Paclitaxel, parenteral;Applikation von Medikamenten, Liste 1: Paclitaxel, parenteral
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.08;6-001.f7;1.320 mg bis unter 1.500 mg;113,02 €
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.09;6-001.f8;1.500 mg bis unter 1.680 mg;127,76 €
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.10;6-001.f9;1.680 mg bis unter 1.860 mg;142,51 €
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.11;6-001.fa;1.860 mg bis unter 2.040 mg;157,25 €
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.12;6-001.fb;2.040 mg bis unter 2.220 mg;171,99 €
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.13;6-001.fc;2.220 mg bis unter 2.400 mg;186,73 €
+ZE63;Gabe von Paclitaxel, parenteral;ZE63.14;6-001.fd;2.400 mg oder mehr;201,47 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;;;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus [CMV];Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus [CMV]
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.014);8-810.s0;1,0 g bis unter 2,0 g;357,70 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.024);8-810.s1;2,0 g bis unter 3,0 g;625,98 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.034);8-810.s2;3,0 g bis unter 5,0 g;983,69 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.04;8-810.s3;5,0 g bis unter 7,5 g;1.341,39 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.05;8-810.s4;7,5 g bis unter 10,0 g;2.012,08 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.06;8-810.s5;10,0 g bis unter 12,5 g;2.682,78 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.07;8-810.s6;12,5 g bis unter 15,0 g;3.353,47 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.08;8-810.s7;15,0 g bis unter 20,0 g;4.024,17 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.09;8-810.s8;20,0 g bis unter 25,0 g;5.365,56 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.10;8-810.s9;25,0 g bis unter 30,0 g;6.706,95 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.11;8-810.sa;30,0 g bis unter 35,0 g;8.048,34 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.12;8-810.sb;35,0 g bis unter 40,0 g;9.389,73 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.13;8-810.sc;40,0 g bis unter 45,0 g;10.731,12 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.14;8-810.sd;45,0 g bis unter 50,0 g;12.072,51 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.15;;Siehe weitere Differenzierung ZE64.16 bis ZE64.24;
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.16;8-810.sf;50,0 g bis unter 60,0 g;13.413,90 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.17;8-810.sg;60,0 g bis unter 70,0 g;16.096,67 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.18;8-810.sh;70,0 g bis unter 80,0 g;18.779,45 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.19;8-810.sj;80,0 g bis unter 90,0 g;21.462,23 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.20;8-810.sk;90,0 g bis unter 100,0 g;24.145,01 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.21;8-810.sm;100,0 g bis unter 120,0 g;26.827,79 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.22;8-810.sn;120,0 g bis unter 140,0 g;32.193,35 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.23;8-810.sp;140,0 g bis unter 160,0 g;37.558,91 €
+ZE64;Gabe von Human-Immunglobulin, spezifisch gegen Zytomegalie-Virus, parenteral;ZE64.24;8-810.sq;160,0 g oder mehr;42.924,46 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;;;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus [VZV];Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus [VZV]
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.016);8-810.t0;250 IE bis unter 500 IE;340,07 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.026);8-810.t1;500 IE bis unter 750 IE;595,12 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.036);8-810.t2;750 IE bis unter 1.000 IE;850,17 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.04;8-810.t3;1.000 IE bis unter 1.500 IE;1.020,20 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.05;8-810.t4;1.500 IE bis unter 2.000 IE;1.530,30 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.06;8-810.t5;2.000 IE bis unter 2.500 IE;2.040,40 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.07;8-810.t6;2.500 IE bis unter 3.000 IE;2.550,50 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.08;8-810.t7;3.000 IE bis unter 3.500 IE;3.060,60 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.09;8-810.t8;3.500 IE bis unter 4.000 IE;3.570,70 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.10;8-810.t9;4.000 IE bis unter 5.000 IE;4.080,80 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.11;8-810.ta;5.000 IE bis unter 6.000 IE;5.101,00 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.12;8-810.tb;6.000 IE bis unter 7.000 IE;6.121,20 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.13;8-810.tc;7.000 IE bis unter 8.000 IE;7.141,40 €
+ZE67;Gabe von Human-Immunglobulin, spezifisch gegen Varicella-Zoster-Virus, parenteral;ZE67.14;8-810.td;8.000 IE oder mehr;8.161,60 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;;;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: C1-Esteraseinhibitor;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: C1-Esteraseinhibitor
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.01;8-810.h3;500 Einheiten bis unter 1.000 Einheiten;797,95 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.02;8-810.h4;1.000 Einheiten bis unter 1.500 Einheiten;1.595,90 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.03;8-810.h5;1.500 Einheiten bis unter 2.000 Einheiten;2.393,85 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.04;8-810.h6;2.000 Einheiten bis unter 2.500 Einheiten;3.191,80 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.05;8-810.h7;2.500 Einheiten bis unter 3.000 Einheiten;3.989,75 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.06;8-810.h8;3.000 Einheiten bis unter 4.000 Einheiten;5.186,68 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.07;8-810.h9;4.000 Einheiten bis unter 5.000 Einheiten;6.782,58 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.08;8-810.ha;5.000 Einheiten bis unter 6.000 Einheiten;8.378,48 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.09;8-810.hb;6.000 Einheiten bis unter 7.000 Einheiten;9.974,38 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.10;8-810.hc;7.000 Einheiten bis unter 9.000 Einheiten;12.235,23 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.11;8-810.hd;9.000 Einheiten bis unter 11.000 Einheiten;15.427,03 €
+ZE70;Gabe von C1-Esteraseinhibitor, parenteral;ZE70.12;8-810.he;11.000 oder mehr Einheiten;18.618,83 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;;;Applikation von Medikamenten, Liste 2: Pegyliertes liposomales Doxorubicin, parenteral;Applikation von Medikamenten, Liste 2: Pegyliertes liposomales Doxorubicin, parenteral
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.016);6-002.80;10 mg bis unter 20 mg;379,67 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.026);6-002.81;20 mg bis unter 30 mg;664,43 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.03;6-002.82;30 mg bis unter 40 mg;949,18 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.04;6-002.83;40 mg bis unter 50 mg;1.233,94 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.05;6-002.84;50 mg bis unter 60 mg;1.518,69 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.06;6-002.85;60 mg bis unter 70 mg;1.803,45 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.07;6-002.86;70 mg bis unter 80 mg;2.088,20 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.08;6-002.87;80 mg bis unter 90 mg;2.359,20 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.09;6-002.88;90 mg bis unter 100 mg;2.650,21 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.10;6-002.89;100 mg bis unter 110 mg;2.942,47 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.11;6-002.8a;110 mg bis unter 120 mg;3.227,22 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.12;6-002.8b;120 mg bis unter 140 mg;3.606,90 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.13;6-002.8c;140 mg bis unter 160 mg;4.176,41 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.14;6-002.8d;160 mg bis unter 180 mg;4.745,92 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.15;6-002.8e;180 mg bis unter 200 mg;5.315,43 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.16;6-002.8f;200 mg bis unter 220 mg;5.884,94 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.17;6-002.8g;220 mg bis unter 240 mg;6.454,45 €
+ZE72;Gabe von Pegyliertem liposomalen Doxorubicin, parenteral;ZE72.18;6-002.8h;240 mg oder mehr;7.023,96 €
+ZE78;Gabe von Temozolomid, oral;;;Applikation von Medikamenten, Liste 2: Temozolomid, oral;Applikation von Medikamenten, Liste 2: Temozolomid, oral
+ZE78;Gabe von Temozolomid, oral;ZE78.014);6-002.e0;200 mg bis unter 350 mg;31,00 €
+ZE78;Gabe von Temozolomid, oral;ZE78.024);6-002.e1;350 mg bis unter 500 mg;49,60 €
+ZE78;Gabe von Temozolomid, oral;ZE78.034);6-002.e2;500 mg bis unter 750 mg;72,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.044);6-002.e3;750 mg bis unter 1.000 mg;103,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.05;6-002.e4;1.000 mg bis unter 1.250 mg;134,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.06;6-002.e5;1.250 mg bis unter 1.500 mg;165,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.07;6-002.e6;1.500 mg bis unter 1.750 mg;196,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.08;6-002.e7;1.750 mg bis unter 2.000 mg;227,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.09;6-002.e8;2.000 mg bis unter 2.250 mg;258,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.10;6-002.e9;2.250 mg bis unter 2.500 mg;289,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.11;6-002.ea;2.500 mg bis unter 2.750 mg;320,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.12;6-002.eb;2.750 mg bis unter 3.000 mg;351,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.13;6-002.ec;3.000 mg bis unter 3.500 mg;392,67 €
+ZE78;Gabe von Temozolomid, oral;ZE78.14;6-002.ed;3.500 mg bis unter 4.000 mg;454,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.15;6-002.ee;4.000 mg bis unter 4.500 mg;516,67 €
+ZE78;Gabe von Temozolomid, oral;ZE78.16;6-002.ef;4.500 mg bis unter 5.000 mg;578,67 €
+ZE78;Gabe von Temozolomid, oral;ZE78.17;6-002.eg;5.000 mg bis unter 5.500 mg;640,67 €
+ZE78;Gabe von Temozolomid, oral;ZE78.18;6-002.eh;5.500 mg bis unter 6.000 mg;702,67 €
+ZE78;Gabe von Temozolomid, oral;ZE78.19;6-002.ej;6.000 mg bis unter 7.000 mg;785,33 €
+ZE78;Gabe von Temozolomid, oral;ZE78.20;6-002.ek;7.000 mg oder mehr;909,33 €
+ZE80;Gabe von Docetaxel, parenteral;;;Applikation von Medikamenten, Liste 2: Docetaxel, parenteral;Applikation von Medikamenten, Liste 2: Docetaxel, parenteral
+ZE80;Gabe von Docetaxel, parenteral;ZE80.13;6-002.hc;720 mg bis unter 840 mg;123,80 €
+ZE80;Gabe von Docetaxel, parenteral;ZE80.14;6-002.hd;840 mg bis unter 960 mg;143,35 €
+ZE80;Gabe von Docetaxel, parenteral;ZE80.15;6-002.he;960 mg bis unter 1.080 mg;162,90 €
+ZE80;Gabe von Docetaxel, parenteral;ZE80.16;6-002.hf;1.080 mg oder mehr;182,45 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;;;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, polyvalent;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Human-Immunglobulin, polyvalent
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.016);8-810.w0;2,5 g bis unter 5 g;176,40 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.026);8-810.w1;5 g bis unter 10 g;352,80 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.03;8-810.w2;10 g bis unter 15 g;553,10 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.04;8-810.w3;15 g bis unter 25 g;970,18 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.05;8-810.w4;25 g bis unter 35 g;1.499,37 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.06;8-810.w5;35 g bis unter 45 g;2.028,56 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.07;8-810.w6;45 g bis unter 55 g;2.557,75 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.08;8-810.w7;55 g bis unter 65 g;3.086,94 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.09;8-810.w8;65 g bis unter 75 g;3.616,13 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.10;8-810.w9;75 g bis unter 85 g;4.145,32 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.11;8-810.wa;85 g bis unter 105 g;4.850,90 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.12;8-810.wb;105 g bis unter 125 g;5.909,29 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.13;8-810.wc;125 g bis unter 145 g;6.967,67 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.14;8-810.wd;145 g bis unter 165 g;8.026,05 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.15;8-810.we;165 g bis unter 185 g;9.084,42 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.16;8-810.wf;185 g bis unter 205 g;10.142,80 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.17;8-810.wg;205 g bis unter 225 g;11.201,19 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.18;8-810.wh;225 g bis unter 245 g;12.259,57 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.19;8-810.wj;245 g bis unter 285 g;13.670,74 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.20;8-810.wk;285 g bis unter 325 g;15.787,50 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.21;8-810.wm;325 g bis unter 365 g;17.904,25 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.22;8-810.wn;365 g bis unter 445 g;20.726,60 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.23;8-810.wp;445 g bis unter 525 g;25.665,71 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.24;8-810.wq;525 g bis unter 605 g;29.899,23 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.25;8-810.wr;605 g bis unter 685 g;34.132,75 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.26;8-810.ws;685 g bis unter 765 g;38.366,26 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.27;8-810.wt;765 g bis unter 845 g;42.599,79 €
+ZE93;Gabe von Human-Immunglobulin, polyvalent, parenteral;ZE93.28;8-810.wu;845 g oder mehr;46.833,31 €
+ZE96;Gabe von Carmustin, Implantat, intrathekal;;;Applikation von Medikamenten, Liste 3: Carmustin, Implantat, intrathekal;Applikation von Medikamenten, Liste 3: Carmustin, Implantat, intrathekal
+ZE96;Gabe von Carmustin, Implantat, intrathekal;ZE96.01;6-003.30;4 Implantate bis unter 7 Implantate;7.798,23 €
+ZE96;Gabe von Carmustin, Implantat, intrathekal;ZE96.02;6-003.31;7 Implantate bis unter 10 Implantate;12.477,17 €
+ZE96;Gabe von Carmustin, Implantat, intrathekal;ZE96.03;6-003.32;10 oder mehr Implantate;17.156,11 €
+ZE97;Gabe von Natalizumab, parenteral;;;Applikation von Medikamenten, Liste 3: Natalizumab, parenteral;Applikation von Medikamenten, Liste 3: Natalizumab, parenteral
+ZE97;Gabe von Natalizumab, parenteral;ZE97.01;6-003.f0;300 mg bis unter 600 mg;2.222,52 €
+ZE97;Gabe von Natalizumab, parenteral;ZE97.02;6-003.f1;600 mg bis unter 900 mg;4.445,04 €
+ZE97;Gabe von Natalizumab, parenteral;ZE97.03;6-003.f2;900 mg oder mehr;6.667,56 €
+ZE98;Gabe von Palivizumab, parenteral;;;Applikation von Medikamenten, Liste 4: Palivizumab, parenteral;Applikation von Medikamenten, Liste 4: Palivizumab, parenteral
+ZE98;Gabe von Palivizumab, parenteral;ZE98.013);6-004.00;15 mg bis unter 30 mg;240,61 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.023);6-004.01;30 mg bis unter 45 mg;421,07 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.033);6-004.02;45 mg bis unter 60 mg;601,53 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.043);6-004.03;60 mg bis unter 75 mg;781,99 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.053);6-004.04;75 mg bis unter 90 mg;962,45 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.063);6-004.05;90 mg bis unter 120 mg;1.203,06 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.073);6-004.06;120 mg bis unter 150 mg;1.563,98 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.083);6-004.07;150 mg bis unter 180 mg;1.924,90 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.093);6-004.08;180 mg bis unter 240 mg;2.406,12 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.103);6-004.09;240 mg bis unter 300 mg;3.127,96 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.113);6-004.0a;300 mg bis unter 360 mg;3.849,79 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.123);6-004.0b;360 mg bis unter 420 mg;4.571,63 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.133);6-004.0c;420 mg bis unter 480 mg;5.293,46 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.143);6-004.0d;480 mg bis unter 540 mg;6.015,30 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.153);6-004.0e;540 mg bis unter 600 mg;6.737,14 €
+ZE98;Gabe von Palivizumab, parenteral;ZE98.163);6-004.0f;600 mg oder mehr;7.458,97 €
+ZE100;Implantation eines endobronchialen Klappensystems;;;Implantation oder Wechsel eines endobronchialen Klappensystems, endoskopisch;Implantation oder Wechsel eines endobronchialen Klappensystems, endoskopisch
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.01;5-339.50;1 Ventil;1.344,52 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.02;5-339.51;2 Ventile;2.689,04 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.03;5-339.52;3 Ventile;4.033,56 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.04;5-339.53;4 Ventile;5.378,08 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.05;;Siehe weitere Differenzierung ZE100.06 bis ZE100.09;
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.06;5-339.55;5 Ventile;6.722,60 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.07;5-339.56;6 Ventile;8.067,12 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.08;5-339.57;7 Ventile;9.411,64 €
+ZE100;Implantation eines endobronchialen Klappensystems;ZE100.09;5-339.58;8 oder mehr Ventile;10.756,16 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.01;8-837.m0;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: Ein Stent in eine Koronararterie;46,68 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.01;8-83d.20;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: Ein selbstexpandierender Stent in eine Koronararterie;46,68
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.02;8-837.m1;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 2 Stents in eine Koronararterie;93,36 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.02;8-837.m2;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 2 Stents in mehrere Koronararterien;93,36
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.02;8-83d.21;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 2 selbstexpandierende Stents in eine Koronararterie;93,36
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.02;8-83d.22;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 2 selbstexpandierende Stents in mehrere Koronararterien;93,36
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.03;8-837.m3;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 3 Stents in eine Koronararterie;140,04 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.03;8-837.m4;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 3 Stents in mehrere Koronararterien;140,04
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.03;8-83d.23;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 3 selbstexpandierende Stents in eine Koronararterie;140,04
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.03;8-83d.24;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 3 selbstexpandierende Stents in mehrere Koronararterien;140,04
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.04;8-837.m5;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 4 Stents in eine Koronararterie;186,72 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.04;8-837.m6;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 4 Stents in mehrere Koronararterien;186,72
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.04;8-83d.25;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 4 selbstexpandierende Stents in eine Koronararterie;186,72
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.04;8-83d.26;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 4 selbstexpandierende Stents in mehrere Koronararterien;186,72
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.05;8-837.m7;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 5 Stents in eine Koronararterie;233,40 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.05;8-837.m8;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: 5 Stents in mehrere Koronararterien;233,4
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.05;8-83d.27;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 5 selbstexpandierende Stents in eine Koronararterie;233,4
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.05;8-83d.28;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: 5 selbstexpandierende Stents in mehrere Koronararterien;233,4
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.06;8-837.m9;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: Mindestens 6 Stents in eine Koronararterie;280,08 €
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.06;8-837.ma;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden Stents: Mindestens 6 Stents in mehrere Koronararterien;280,08
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.06;8-83d.29;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: Mindestens 6 selbstexpandierende Stents in eine Koronararterie;280,08
+ZE101;Medikamente-freisetzende Koronarstents;ZE101.06;8-83d.2a;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden selbstexpandierenden Stents: Mindestens 6 selbstexpandierende Stents in mehrere Koronararterien;280,08
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;;8-836.m0;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße intrakraniell;
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;;8-836.m1;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße Kopf extrakraniell und Hals;
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;;8-836.mf;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße spinal;
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;;8-83b.34;Zusatzinformationen zu Materialien: Art der Metall- oder Mikrospiralen zur selektiven Embolisation: Nicht gecoverter großlumiger Gefäßverschlusskörper [Vascular Plug];
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;;8-83b.35;Zusatzinformationen zu Materialien: Art der Metall- oder Mikrospiralen zur selektiven Embolisation: Großvolumige Metallspiralen [Volumencoils];
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;;8-83b.38;Zusatzinformationen zu Materialien: Art der Metall- oder Mikrospiralen zur selektiven Embolisation: Gecoverter großlumiger Gefäßverschlusskörper [Vascular Plug];
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.01;8-836.n1;1 Metallspirale;226,83 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.02;8-836.n2;2 Metallspiralen;453,66 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.03;8-836.n3;3 Metallspiralen;680,49 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.04;8-836.n4;4 Metallspiralen;907,32 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.05;8-836.n5;5 Metallspiralen;1.134,15 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.06;8-836.n6;6 Metallspiralen;1.360,98 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.07;8-836.n7;7 Metallspiralen;1.587,81 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.08;8-836.n8;8 Metallspiralen;1.814,64 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.09;8-836.n9;9 Metallspiralen;2.041,47 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.10;8-836.na;10 Metallspiralen;2.268,30 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.11;8-836.nb;11 Metallspiralen;2.495,13 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.12;8-836.nc;12 Metallspiralen;2.721,96 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.13;8-836.nd;13 Metallspiralen;2.948,79 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.14;8-836.ne;14 Metallspiralen;3.175,62 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.15;8-836.nf;15 Metallspiralen;3.402,45 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.16;8-836.ng;16 Metallspiralen;3.629,28 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.17;8-836.nh;17 Metallspiralen;3.856,11 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.18;8-836.nj;18 Metallspiralen;4.082,94 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.19;8-836.nk;19 Metallspiralen;4.309,77 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.20;8-836.nm;20 Metallspiralen;4.536,60 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.21;;Siehe weitere Differenzierung ZE105.22 - ZE105.29;
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.22;8-836.np;21 Metallspiralen;4.763,43 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.23;8-836.nq;22 Metallspiralen;4.990,26 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.24;8-836.nr;23 Metallspiralen;5.217,09 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.25;8-836.ns;24 Metallspiralen;5.443,92 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.26;8-836.nt;25 Metallspiralen;5.670,75 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.27;8-836.nu;26 Metallspiralen;5.897,58 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.28;8-836.nv;27 Metallspiralen;6.124,41 €
+ZE105,;Selektive Embolisation mit Metallspiralen (Coils) an Kopf, Hals (intra- und extrakraniell) und spinalen Gefäßen oder mit großlumigem Gefäßverschlusskörper;ZE105.29;8-836.nw;28 oder mehr Metallspiralen;6.351,24 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m2;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße Schulter und Oberarm;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m3;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße Unterarm;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m4;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Aorta;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m5;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Aortenisthmus;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m6;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Ductus arteriosus apertus;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m7;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: V. cava;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.m8;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Andere Gefäße thorakal;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.ma;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße viszeral;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mc;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäße Unterschenkel;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.md;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Gefäßmalformationen;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.me;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Künstliche Gefäße;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mg;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: V. portae;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mh;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Andere Arterien abdominal und pelvin;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mj;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Andere Venen abdominal und pelvin;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mk;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Arterien Oberschenkel;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mm;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Venen Oberschenkel;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-836.mx;(Perkutan-)transluminale Gefäßintervention: Selektive Embolisation mit Metallspiralen: Sonstige;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.90;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Pulmonalarterie;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.91;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Pulmonalvene;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.92;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Aortopulmonale Kollateralgefäße (MAPCA);
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.93;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Gefäßmalformationen;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.94;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Künstliche aortopulmonale Shunts;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.95;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Künstliche Gefäße;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;;8-838.9x;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Selektive Embolisation mit Partikeln oder Metallspiralen: Sonstige;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.01;8-836.n1;1 Metallspirale;55,84 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.02;8-836.n2;2 Metallspiralen;111,68 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.03;8-836.n3;3 Metallspiralen;167,52 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.04;8-836.n4;4 Metallspiralen;223,36 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.05;8-836.n5;5 Metallspiralen;279,20 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.06;8-836.n6;6 Metallspiralen;335,04 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.07;8-836.n7;7 Metallspiralen;390,88 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.08;8-836.n8;8 Metallspiralen;446,72 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.09;8-836.n9;9 Metallspiralen;502,56 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.10;8-836.na;10 Metallspiralen;558,40 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.11;8-836.nb;11 Metallspiralen;614,24 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.12;8-836.nc;12 Metallspiralen;670,08 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.13;8-836.nd;13 Metallspiralen;725,92 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.14;8-836.ne;14 Metallspiralen;781,76 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.15;8-836.nf;15 Metallspiralen;837,60 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.16;8-836.ng;16 Metallspiralen;893,44 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.17;8-836.nh;17 Metallspiralen;949,28 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.18;8-836.nj;18 Metallspiralen;1.005,12 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.19;8-836.nk;19 Metallspiralen;1.060,96 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.20;8-836.nm;20 Metallspiralen;1.116,80 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.21;;Siehe weitere Differenzierung ZE106.22 - ZE106.29;
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.22;8-836.np;21 Metallspiralen;1.172,64 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.23;8-836.nq;22 Metallspiralen;1.228,48 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.24;8-836.nr;23 Metallspiralen;1.284,32 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.25;8-836.ns;24 Metallspiralen;1.340,16 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.26;8-836.nt;25 Metallspiralen;1.396,00 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.27;8-836.nu;26 Metallspiralen;1.451,84 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.28;8-836.nv;27 Metallspiralen;1.507,68 €
+ZE106,;Selektive Embolisation mit Metallspiralen (Coils), andere Lokalisationen;ZE106.29;8-836.nw;28 oder mehr Metallspiralen;1.563,52 €
+ZE107;Gabe von Erythrozytenkonzentraten;;;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Erythrozytenkonzentrat;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Erythrozytenkonzentrat
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.016);8-800.c1;6 TE bis unter 11 TE;647,79 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.026);8-800.c2;11 TE bis unter 16 TE;1.070,26 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.03;8-800.c3;16 TE bis unter 24 TE;1.577,22 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.04;8-800.c4;24 TE bis unter 32 TE;2.253,18 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.05;8-800.c5;32 TE bis unter 40 TE;2.929,13 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.06;8-800.c6;40 TE bis unter 48 TE;3.605,08 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.07;8-800.c7;48 TE bis unter 56 TE;4.281,03 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.08;8-800.c8;56 TE bis unter 64 TE;4.956,99 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.09;8-800.c9;64 TE bis unter 72 TE;5.632,94 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.10;8-800.ca;72 TE bis unter 80 TE;6.308,89 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.11;8-800.cb;80 TE bis unter 88 TE;6.984,85 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.12;8-800.cc;88 TE bis unter 104 TE;7.886,12 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.13;8-800.cd;104 TE bis unter 120 TE;9.238,02 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.14;8-800.ce;120 TE bis unter 136 TE;10.589,93 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.15;8-800.cf;136 TE bis unter 152 TE;11.941,83 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.16;8-800.cg;152 TE bis unter 168 TE;13.293,74 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.17;8-800.ch;168 TE bis unter 184 TE;14.645,64 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.18;8-800.cj;184 TE bis unter 200 TE;15.997,55 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.19;8-800.ck;200 TE bis unter 216 TE;17.349,46 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.20;8-800.cm;216 TE bis unter 232 TE;18.701,36 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.21;8-800.cn;232 TE bis unter 248 TE;20.053,27 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.22;8-800.cp;248 TE bis unter 264 TE;21.405,17 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.23;8-800.cq;264 TE bis unter 280 TE;22.757,08 €
+ZE107;Gabe von Erythrozytenkonzentraten;ZE107.24;8-800.cr;280 TE oder mehr;24.108,98 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;;;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Patientenbezogene Thrombozytenkonzentrate;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Patientenbezogene Thrombozytenkonzentrate
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.01;8-800.60;1 patientenbezogenes Thrombozytenkonzentrat;401,42 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.02;8-800.61;2 patientenbezogene Thrombozytenkonzentrate;802,85 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.03;8-800.62;3 bis unter 5 patientenbezogene Thrombozytenkonzentrate;1.365,22 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.04;8-800.63;5 bis unter 7 patientenbezogene Thrombozytenkonzentrate;2.207,83 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.05;8-800.64;7 bis unter 9 patientenbezogene Thrombozytenkonzentrate;2.965,75 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.06;8-800.65;9 bis unter 11 patientenbezogene Thrombozytenkonzentrate;3.768,21 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.07;8-800.66;11 bis unter 13 patientenbezogene Thrombozytenkonzentrate;4.516,02 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.08;8-800.67;13 bis unter 15 patientenbezogene Thrombozytenkonzentrate;5.419,23 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.09;8-800.68;15 bis unter 17 patientenbezogene Thrombozytenkonzentrate;6.222,08 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.10;8-800.69;17 bis unter 19 patientenbezogene Thrombozytenkonzentrate;7.024,92 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.11;8-800.6a;19 bis unter 23 patientenbezogene Thrombozytenkonzentrate;8.028,48 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.12;8-800.6b;23 bis unter 27 patientenbezogene Thrombozytenkonzentrate;9.634,18 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.13;8-800.6c;27 bis unter 31 patientenbezogene Thrombozytenkonzentrate;11.239,88 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.14;8-800.6d;31 bis unter 35 patientenbezogene Thrombozytenkonzentrate;12.845,57 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.15;8-800.6e;35 bis unter 39 patientenbezogene Thrombozytenkonzentrate;14.451,27 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.16;8-800.6g;39 bis unter 43 patientenbezogene Thrombozytenkonzentrate;16.056,97 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.17;8-800.6h;43 bis unter 47 patientenbezogene Thrombozytenkonzentrate;17.662,66 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.18;8-800.6j;47 bis unter 51 patientenbezogene Thrombozytenkonzentrate;19.268,36 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.19;8-800.6k;51 bis unter 55 patientenbezogene Thrombozytenkonzentrate;20.874,06 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.20;8-800.6m;55 bis unter 59 patientenbezogene Thrombozytenkonzentrate;22.479,76 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.21;8-800.6n;59 bis unter 63 patientenbezogene Thrombozytenkonzentrate;24.085,45 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.22;8-800.6p;63 bis unter 67 patientenbezogene Thrombozytenkonzentrate;25.691,15 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.23;8-800.6q;67 bis unter 71 patientenbezogene Thrombozytenkonzentrate;27.296,85 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.24;;Siehe weitere Differenzierung ZE108.25 - ZE108.30;
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.25;8-800.6s;71 bis unter 79 patientenbezogene Thrombozytenkonzentrate;29.303,97 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.26;8-800.6t;79 bis unter 87 patientenbezogene Thrombozytenkonzentrate;32.515,36 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.27;8-800.6u;87 bis unter 95 patientenbezogene Thrombozytenkonzentrate;35.726,75 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.28;8-800.6v;95 bis unter 103 patientenbezogene Thrombozytenkonzentrate;38.938,15 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.29;8-800.6w;103 bis unter 111 patientenbezogene Thrombozytenkonzentrate;42.149,54 €
+ZE108;Gabe von patientenbezogenen Thrombozytenkonzentraten;ZE108.30;8-800.6z;111 oder mehr patientenbezogene Thrombozytenkonzentrate;45.360,93 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;;;Applikation von Medikamenten, Liste 2: Liposomales Amphotericin B, parenteral;Applikation von Medikamenten, Liste 2: Liposomales Amphotericin B, parenteral
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.016);6-002.q0;100 mg bis unter 175 mg;242,11 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.026);6-002.q1;175 mg bis unter 250 mg;387,38 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.03;6-002.q2;250 mg bis unter 350 mg;548,79 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.04;6-002.q3;350 mg bis unter 450 mg;742,48 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.05;6-002.q4;450 mg bis unter 550 mg;936,17 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.06;6-002.q5;550 mg bis unter 650 mg;1.129,86 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.07;6-002.q6;650 mg bis unter 750 mg;1.323,55 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.08;6-002.q7;750 mg bis unter 850 mg;1.517,24 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.09;6-002.q8;850 mg bis unter 950 mg;1.710,93 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.10;6-002.q9;950 mg bis unter 1.150 mg;1.969,18 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.11;6-002.qa;1.150 mg bis unter 1.350 mg;2.356,56 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.12;6-002.qb;1.350 mg bis unter 1.550 mg;2.743,94 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.13;6-002.qc;1.550 mg bis unter 1.750 mg;3.131,32 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.14;6-002.qd;1.750 mg bis unter 1.950 mg;3.518,70 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.15;6-002.qe;1.950 mg bis unter 2.150 mg;3.906,08 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.16;6-002.qf;2.150 mg bis unter 3.150 mg;4.809,97 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.17;6-002.qg;3.150 mg bis unter 4.150 mg;6.746,87 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.18;6-002.qh;4.150 mg bis unter 5.150 mg;8.683,77 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.19;6-002.qj;5.150 mg bis unter 6.150 mg;10.620,67 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.20;6-002.qk;6.150 mg bis unter 8.650 mg;13.526,02 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.21;6-002.qm;8.650 mg bis unter 11.150 mg;18.343,88 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.22;6-002.qn;11.150 mg bis unter 13.650 mg;23.210,52 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.23;6-002.qp;13.650 mg bis unter 18.650 mg;29.666,85 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.24;6-002.qq;18.650 mg bis unter 23.650 mg;39.351,35 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.25;6-002.qr;23.650 mg bis unter 28.650 mg;49.035,85 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.26;6-002.qs;28.650 mg bis unter 33.650 mg;58.720,35 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.27;6-002.qt;33.650 mg bis unter 38.650 mg;68.404,85 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.28;6-002.qu;38.650 mg bis unter 43.650 mg;78.089,35 €
+ZE110;Gabe von Liposomalem Amphotericin B, parenteral;ZE110.29;6-002.qv;43.650 mg oder mehr;87.773,85 €
+ZE113;Gabe von Itraconazol, parenteral;;;Applikation von Medikamenten, Liste 2: Itraconazol, parenteral;Applikation von Medikamenten, Liste 2: Itraconazol, parenteral
+ZE113;Gabe von Itraconazol, parenteral;ZE113.015);6-002.c0;400 mg bis unter 800 mg;191,09 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.025);6-002.c1;800 mg bis unter 1.200 mg;334,41 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.03;6-002.c2;1.200 mg bis unter 1.600 mg;477,73 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.04;6-002.c3;1.600 mg bis unter 2.000 mg;621,05 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.05;6-002.c4;2.000 mg bis unter 2.400 mg;764,37 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.06;6-002.c5;2.400 mg bis unter 2.800 mg;907,69 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.07;6-002.c6;2.800 mg bis unter 3.200 mg;1.051,01 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.08;6-002.c7;3.200 mg bis unter 3.600 mg;1.194,33 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.09;6-002.c8;3.600 mg bis unter 4.000 mg;1.337,65 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.10;6-002.c9;4.000 mg bis unter 4.800 mg;1.528,75 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.11;6-002.ca;4.800 mg bis unter 5.600 mg;1.815,39 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.12;6-002.cb;5.600 mg bis unter 6.400 mg;2.102,03 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.13;6-002.cc;6.400 mg bis unter 7.200 mg;2.388,67 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.14;6-002.cd;7.200 mg bis unter 8.000 mg;2.675,31 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.15;6-002.ce;8.000 mg bis unter 8.800 mg;2.961,95 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.16;6-002.cg;8.800 mg bis unter 10.400 mg;3.344,13 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.17;6-002.ch;10.400 mg bis unter 12.000 mg;3.917,41 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.18;6-002.cj;12.000 mg bis unter 13.600 mg;4.490,69 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.19;6-002.ck;13.600 mg bis unter 16.800 mg;5.255,07 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.20;6-002.cm;16.800 mg bis unter 20.000 mg;6.401,63 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.21;6-002.cn;20.000 mg bis unter 23.200 mg;7.548,19 €
+ZE113;Gabe von Itraconazol, parenteral;ZE113.22;6-002.cp;23.200 mg oder mehr;8.694,75 €
+ZE116;Gabe von Panitumumab, parenteral;;;Applikation von Medikamenten, Liste 4: Panitumumab, parenteral;Applikation von Medikamenten, Liste 4: Panitumumab, parenteral
+ZE116;Gabe von Panitumumab, parenteral;ZE116.01;6-004.70;180 mg bis unter 300 mg;1.246,37 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.02;6-004.71;300 mg bis unter 420 mg;1.926,20 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.03;6-004.72;420 mg bis unter 540 mg;2.596,80 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.04;6-004.73;540 mg bis unter 660 mg;3.285,87 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.05;6-004.74;660 mg bis unter 780 mg;3.872,12 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.06;6-004.75;780 mg bis unter 900 mg;4.645,55 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.07;6-004.76;900 mg bis unter 1.020 mg;5.325,38 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.08;6-004.77;1.020 mg bis unter 1.260 mg;6.231,83 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.09;6-004.78;1.260 mg bis unter 1.500 mg;7.591,50 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.10;6-004.79;1.500 mg bis unter 1.740 mg;8.951,17 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.11;6-004.7a;1.740 mg bis unter 1.980 mg;10.310,85 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.12;6-004.7b;1.980 mg bis unter 2.220 mg;11.670,52 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.13;6-004.7c;2.220 mg bis unter 2.460 mg;13.030,19 €
+ZE116;Gabe von Panitumumab, parenteral;ZE116.14;6-004.7d;2.460 mg oder mehr;14.389,86 €
+ZE117;Gabe von Trabectedin, parenteral;;;Applikation von Medikamenten, Liste 4: Trabectedin, parenteral;Applikation von Medikamenten, Liste 4: Trabectedin, parenteral
+ZE117;Gabe von Trabectedin, parenteral;ZE117.016);6-004.a0;0,25 mg bis unter 0,50 mg;825,24 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.026);6-004.a1;0,50 mg bis unter 0,75 mg;1.444,17 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.036);6-004.a2;0,75 mg bis unter 1,00 mg;2.063,11 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.046);6-004.a3;1,00 mg bis unter 1,25 mg;2.682,04 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.05;6-004.a4;1,25 mg bis unter 1,50 mg;3.094,66 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.06;6-004.a5;1,50 mg bis unter 1,75 mg;3.713,59 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.07;6-004.a6;1,75 mg bis unter 2,00 mg;4.332,52 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.08;6-004.a7;2,00 mg bis unter 2,25 mg;4.951,45 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.09;6-004.a8;2,25 mg bis unter 2,50 mg;5.570,38 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.10;6-004.a9;2,50 mg bis unter 2,75 mg;6.189,32 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.11;6-004.aa;2,75 mg bis unter 3,00 mg;6.808,25 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.12;6-004.ab;3,00 mg bis unter 3,25 mg;7.427,18 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.13;6-004.ac;3,25 mg bis unter 3,50 mg;8.046,11 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.14;6-004.ad;3,50 mg bis unter 4,00 mg;8.665,04 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.15;6-004.ae;4,00 mg bis unter 4,50 mg;9.902,90 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.16;6-004.af;4,50 mg bis unter 5,00 mg;11.140,77 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.17;6-004.ag;5,00 mg bis unter 5,50 mg;12.378,63 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.18;6-004.ah;5,50 mg bis unter 6,00 mg;13.616,49 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.19;;Siehe weitere Differenzierung ZE117.20 bis ZE117.29;
+ZE117;Gabe von Trabectedin, parenteral;ZE117.20;6-004.ak;6,00 mg bis unter 7,00 mg;15.679,60 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.21;6-004.am;7,00 mg bis unter 8,00 mg;18.155,32 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.22;6-004.an;8,00 mg bis unter 9,00 mg;20.631,05 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.23;6-004.ap;9,00 mg bis unter 10,00 mg;23.106,78 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.24;6-004.aq;10,00 mg bis unter 12,00 mg;26.407,74 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.25;6-004.ar;12,00 mg bis unter 14,00 mg;31.359,20 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.26;6-004.as;14,00 mg bis unter 16,00 mg;36.310,65 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.27;6-004.at;16,00 mg bis unter 20,00 mg;42.912,58 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.28;6-004.au;20,00 mg bis unter 24,00 mg;52.815,49 €
+ZE117;Gabe von Trabectedin, parenteral;ZE117.29;6-004.av;24,00 mg oder mehr;62.718,39 €
+ZE119;Hämofiltration, kontinuierlich;;;Hämofiltration: Kontinuierlich;Hämofiltration: Kontinuierlich
+ZE119;Hämofiltration, kontinuierlich;ZE119.01;8-853.13;Arteriovenös (CAVH): Bis 24 Stunden;331,57 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.01;8-853.70;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Bis 24 Stunden;331,57
+ZE119;Hämofiltration, kontinuierlich;ZE119.01;8-853.80;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Bis 24 Stunden;331,57
+ZE119;Hämofiltration, kontinuierlich;ZE119.02;8-853.14;Arteriovenös (CAVH): Mehr als 24 bis 72 Stunden;795,77 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.02;8-853.71;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 24 bis 72 Stunden;795,77
+ZE119;Hämofiltration, kontinuierlich;ZE119.02;8-853.81;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 24 bis 72 Stunden;795,77
+ZE119;Hämofiltration, kontinuierlich;ZE119.03;8-853.15;Arteriovenös (CAVH): Mehr als 72 bis 144 Stunden;1.657,85 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.03;8-853.72;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 72 bis 144 Stunden;1657,85
+ZE119;Hämofiltration, kontinuierlich;ZE119.03;8-853.82;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 72 bis 144 Stunden;1657,85
+ZE119;Hämofiltration, kontinuierlich;ZE119.04;8-853.16;Arteriovenös (CAVH): Mehr als 144 bis 264 Stunden;2.984,13 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.04;8-853.73;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 144 bis 264 Stunden;2984,13
+ZE119;Hämofiltration, kontinuierlich;ZE119.04;8-853.83;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 144 bis 264 Stunden;2984,13
+ZE119;Hämofiltration, kontinuierlich;ZE119.05;8-853.17;Arteriovenös (CAVH): Mehr als 264 bis 432 Stunden;4.973,55 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.05;8-853.74;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 264 bis 432 Stunden;4973,55
+ZE119;Hämofiltration, kontinuierlich;ZE119.05;8-853.84;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 264 bis 432 Stunden;4973,55
+ZE119;Hämofiltration, kontinuierlich;ZE119.06;8-853.19;Arteriovenös (CAVH): Mehr als 432 bis 600 Stunden;7.294,54 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.06;8-853.76;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 432 bis 600 Stunden;7294,54
+ZE119;Hämofiltration, kontinuierlich;ZE119.06;8-853.86;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 432 bis 600 Stunden;7294,54
+ZE119;Hämofiltration, kontinuierlich;ZE119.07;8-853.1a;Arteriovenös (CAVH): Mehr als 600 bis 960 Stunden;10.941,81 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.07;8-853.77;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 600 bis 960 Stunden;10941,81
+ZE119;Hämofiltration, kontinuierlich;ZE119.07;8-853.87;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 600 bis 960 Stunden;10941,81
+ZE119;Hämofiltration, kontinuierlich;ZE119.08;8-853.1b;Arteriovenös (CAVH): Mehr als 960 bis 1.320 Stunden;15.915,36 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.08;8-853.78;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 960 bis 1.320 Stunden;15915,36
+ZE119;Hämofiltration, kontinuierlich;ZE119.08;8-853.88;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 960 bis 1.320 Stunden;15915,36
+ZE119;Hämofiltration, kontinuierlich;ZE119.09;8-853.1c;Arteriovenös (CAVH): Mehr als 1.320 bis 1.680 Stunden;20.888,91 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.09;8-853.79;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 1.320 bis 1.680 Stunden;20888,91
+ZE119;Hämofiltration, kontinuierlich;ZE119.09;8-853.89;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 1.320 bis 1.680 Stunden;20888,91
+ZE119;Hämofiltration, kontinuierlich;ZE119.10;8-853.1d;Arteriovenös (CAVH): Mehr als 1.680 bis 2.040 Stunden;25.862,46 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.10;8-853.7a;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 1.680 bis 2.040 Stunden;25862,46
+ZE119;Hämofiltration, kontinuierlich;ZE119.10;8-853.8a;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 1.680 bis 2.040 Stunden;25862,46
+ZE119;Hämofiltration, kontinuierlich;ZE119.11;8-853.1e;Arteriovenös (CAVH): Mehr als 2.040 bis 2.400 Stunden;30.836,01 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.11;8-853.7b;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 2.040 bis 2.400 Stunden;30836,01
+ZE119;Hämofiltration, kontinuierlich;ZE119.11;8-853.8b;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 2.040 bis 2.400 Stunden;30836,01
+ZE119;Hämofiltration, kontinuierlich;ZE119.12;8-853.1f;Arteriovenös (CAVH): Mehr als 2.400 Stunden;35.809,56 €
+ZE119;Hämofiltration, kontinuierlich;ZE119.12;8-853.7c;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 2.400 Stunden;35809,56
+ZE119;Hämofiltration, kontinuierlich;ZE119.12;8-853.8c;Venovenös, pumpengetrieben (CVVH), Antikoagulation mit sonstigen Substanzen: Mehr als 2.400 Stunden;35809,56
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);;;Hämodialyse: Kontinuierlich, venovenös, pumpengetrieben (CVVHD);Hämodialyse: Kontinuierlich, venovenös, pumpengetrieben (CVVHD)
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.01;8-854.60;Antikoagulation mit Heparin oder ohne Antikoagulation: Bis 24 Stunden;265,18 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.01;8-854.70;Antikoagulation mit sonstigen Substanzen: Bis 24 Stunden;265,18
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.02;8-854.61;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 24 bis 72 Stunden;636,43 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.02;8-854.71;Antikoagulation mit sonstigen Substanzen: Mehr als 24 bis 72 Stunden;636,43
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.03;8-854.62;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 72 bis 144 Stunden;1.299,38 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.03;8-854.72;Antikoagulation mit sonstigen Substanzen: Mehr als 72 bis 144 Stunden;1299,38
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.04;8-854.63;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 144 bis 264 Stunden;2.386,62 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.04;8-854.73;Antikoagulation mit sonstigen Substanzen: Mehr als 144 bis 264 Stunden;2386,62
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.05;8-854.64;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 264 bis 432 Stunden;3.871,63 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.05;8-854.74;Antikoagulation mit sonstigen Substanzen: Mehr als 264 bis 432 Stunden;3871,63
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.06;8-854.66;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 432 bis 600 Stunden;5.860,48 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.06;8-854.76;Antikoagulation mit sonstigen Substanzen: Mehr als 432 bis 600 Stunden;5860,48
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.07;8-854.67;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 600 bis 960 Stunden;8.750,94 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.07;8-854.77;Antikoagulation mit sonstigen Substanzen: Mehr als 600 bis 960 Stunden;8750,94
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.08;8-854.68;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 960 bis 1.320 Stunden;12.728,64 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.08;8-854.78;Antikoagulation mit sonstigen Substanzen: Mehr als 960 bis 1.320 Stunden;12728,64
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.09;8-854.69;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 1.320 bis 1.680 Stunden;16.706,34 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.09;8-854.79;Antikoagulation mit sonstigen Substanzen: Mehr als 1.320 bis 1.680 Stunden;16706,34
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.10;8-854.6a;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 1.680 bis 2.040 Stunden;20.684,04 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.10;8-854.7a;Antikoagulation mit sonstigen Substanzen: Mehr als 1.680 bis 2.040 Stunden;20684,04
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.11;8-854.6b;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 2.040 bis 2.400 Stunden;24.661,74 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.11;8-854.7b;Antikoagulation mit sonstigen Substanzen: Mehr als 2.040 bis 2.400 Stunden;24661,74
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.12;8-854.6c;Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 2.400 Stunden;28.639,44 €
+ZE120;Hämodialyse, kontinuierlich, venovenös, pumpengetrieben (CVVHD);ZE120.12;8-854.7c;Antikoagulation mit sonstigen Substanzen: Mehr als 2.400 Stunden;28639,44
+ZE121;Hämodiafiltration, kontinuierlich;;;Hämodiafiltration: Kontinuierlich;Hämodiafiltration: Kontinuierlich
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.01;8-855.13;Arteriovenös (CAVHDF): Bis 24 Stunden;289,45 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.01;8-855.70;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Bis 24 Stunden;289,45
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.01;8-855.80;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Bis 24 Stunden;289,45
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.02;8-855.14;Arteriovenös (CAVHDF): Mehr als 24 bis 72 Stunden;694,68 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.02;8-855.71;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 24 bis 72 Stunden;694,68
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.02;8-855.81;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 24 bis 72 Stunden;694,68
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.03;8-855.15;Arteriovenös (CAVHDF): Mehr als 72 bis 144 Stunden;1.389,36 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.03;8-855.72;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 72 bis 144 Stunden;1389,36
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.03;8-855.82;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 72 bis 144 Stunden;1389,36
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.04;8-855.16;Arteriovenös (CAVHDF): Mehr als 144 bis 264 Stunden;2.547,16 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.04;8-855.73;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 144 bis 264 Stunden;2547,16
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.04;8-855.83;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 144 bis 264 Stunden;2547,16
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.05;8-855.17;Arteriovenös (CAVHDF): Mehr als 264 bis 432 Stunden;4.341,75 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.05;8-855.74;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 264 bis 432 Stunden;4341,75
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.05;8-855.84;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 264 bis 432 Stunden;4341,75
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.06;8-855.19;Arteriovenös (CAVHDF): Mehr als 432 bis 600 Stunden;6.367,90 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.06;8-855.76;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 432 bis 600 Stunden;6367,9
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.06;8-855.86;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 432 bis 600 Stunden;6367,9
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.07;8-855.1a;Arteriovenös (CAVHDF): Mehr als 600 bis 960 Stunden;9.551,85 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.07;8-855.77;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 600 bis 960 Stunden;9551,85
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.07;8-855.87;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 600 bis 960 Stunden;9551,85
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.08;8-855.1b;Arteriovenös (CAVHDF): Mehr als 960 bis 1.320 Stunden;13.893,60 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.08;8-855.78;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 960 bis 1.320 Stunden;13893,6
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.08;8-855.88;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 960 bis 1.320 Stunden;13893,6
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.09;8-855.1c;Arteriovenös (CAVHDF): Mehr als 1.320 bis 1.680 Stunden;18.235,35 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.09;8-855.79;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 1.320 bis 1.680 Stunden;18235,35
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.09;8-855.89;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 1.320 bis 1.680 Stunden;18235,35
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.10;8-855.1d;Arteriovenös (CAVHDF): Mehr als 1.680 bis 2.040 Stunden;22.577,10 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.10;8-855.7a;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 1.680 bis 2.040 Stunden;22577,1
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.10;8-855.8a;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 1.680 bis 2.040 Stunden;22577,1
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.11;8-855.1e;Arteriovenös (CAVHDF): Mehr als 2.040 bis 2.400 Stunden;26.918,85 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.11;8-855.7b;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 2.040 bis 2.400 Stunden;26918,85
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.11;8-855.8b;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 2.040 bis 2.400 Stunden;26918,85
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.12;8-855.1f;Arteriovenös (CAVHDF): Mehr als 2.400 Stunden;31.260,60 €
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.12;8-855.7c;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit Heparin oder ohne Antikoagulation: Mehr als 2.400 Stunden;31260,6
+ZE121;Hämodiafiltration, kontinuierlich;ZE121.12;8-855.8c;Venovenös, pumpengetrieben (CVVHDF), Antikoagulation mit sonstigen Substanzen: Mehr als 2.400 Stunden;31260,6
+ZE122;Peritonealdialyse, intermittierend, maschinell unterstützt (IPD);;8-857.0;Peritonealdialyse: Intermittierend, maschinell unterstützt (IPD);siehe Anlage 2
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);;;Peritonealdialyse: Kontinuierlich, nicht maschinell unterstützt (CAPD);Peritonealdialyse: Kontinuierlich, nicht maschinell unterstützt (CAPD)
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.01;8-857.10;Bis 24 Stunden;147,48 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.02;8-857.11;Mehr als 24 bis 72 Stunden;339,20 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.03;8-857.12;Mehr als 72 bis 144 Stunden;737,40 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.04;8-857.13;Mehr als 144 bis 264 Stunden;1.327,32 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.05;8-857.14;Mehr als 264 bis 432 Stunden;2.212,20 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.06;8-857.16;Mehr als 432 bis 600 Stunden;3.244,56 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.07;8-857.17;Mehr als 600 bis 960 Stunden;4.866,84 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.08;8-857.18;Mehr als 960 bis 1.320 Stunden;7.079,04 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.09;8-857.19;Mehr als 1.320 bis 1.680 Stunden;9.291,24 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.10;8-857.1a;Mehr als 1.680 bis 2.040 Stunden;11.503,44 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.11;8-857.1b;Mehr als 2.040 bis 2.400 Stunden;13.715,64 €
+ZE123;Peritonealdialyse, kontinuierlich, nicht maschinell unterstützt (CAPD);ZE123.12;8-857.1c;Mehr als 2.400 Stunden;15.927,84 €
+ZE125;Implantation oder Wechsel eines interspinösen Spreizers;ZE125.01;5-839.b0;Andere Operationen an der Wirbelsäule: Implantation eines interspinösen Spreizers: 1 Segment;416,69 €
+ZE125;Implantation oder Wechsel eines interspinösen Spreizers;ZE125.01;5-839.c0;Andere Operationen an der Wirbelsäule: Wechsel eines interspinösen Spreizers: 1 Segment;416,69
+ZE125;Implantation oder Wechsel eines interspinösen Spreizers;ZE125.02;5-839.b2;Andere Operationen an der Wirbelsäule: Implantation eines interspinösen Spreizers: 2 Segmente;833,38 €
+ZE125;Implantation oder Wechsel eines interspinösen Spreizers;ZE125.02;5-839.c2;Andere Operationen an der Wirbelsäule: Wechsel eines interspinösen Spreizers: 2 Segmente;833,38
+ZE125;Implantation oder Wechsel eines interspinösen Spreizers;ZE125.03;5-839.b3;Andere Operationen an der Wirbelsäule: Implantation eines interspinösen Spreizers: 3 oder mehr Segmente;1.250,07 €
+ZE125;Implantation oder Wechsel eines interspinösen Spreizers;ZE125.03;5-839.c3;Andere Operationen an der Wirbelsäule: Wechsel eines interspinösen Spreizers: 3 oder mehr Segmente;1250,07
+ZE126;Autogene / Autologe matrixinduzierte Chondrozytentransplantation;;5-801.k*;Offen chirurgische Operation am Gelenkknorpel und an den Menisken: Autogene matrixinduzierte Chondrozytentransplantation;siehe Anlage 2
+ZE126;Autogene / Autologe matrixinduzierte Chondrozytentransplantation;;5-812.h*;Arthroskopische Operation am Gelenkknorpel und an den Menisken: Autogene matrixinduzierte Chondrozytentransplantation;siehe Anlage 2
+ZE128;Gabe von Micafungin, parenteral;;;Applikation von Medikamenten, Liste 4: Micafungin, parenteral;Applikation von Medikamenten, Liste 4: Micafungin, parenteral
+ZE128;Gabe von Micafungin, parenteral;ZE128.016);6-004.50;75 mg bis unter 150 mg;293,76 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.02;6-004.51;150 mg bis unter 250 mg;538,56 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.03;6-004.52;250 mg bis unter 350 mg;832,32 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.04;6-004.53;350 mg bis unter 450 mg;1.126,08 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.05;6-004.54;450 mg bis unter 550 mg;1.419,84 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.06;6-004.55;550 mg bis unter 650 mg;1.713,60 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.07;6-004.56;650 mg bis unter 750 mg;2.005,47 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.08;6-004.57;750 mg bis unter 850 mg;2.301,12 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.09;6-004.58;850 mg bis unter 950 mg;2.594,88 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.10;6-004.59;950 mg bis unter 1.150 mg;2.986,56 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.11;6-004.5a;1.150 mg bis unter 1.350 mg;3.574,08 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.12;6-004.5b;1.350 mg bis unter 1.550 mg;4.161,60 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.13;6-004.5c;1.550 mg bis unter 1.950 mg;4.944,96 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.14;6-004.5d;1.950 mg bis unter 2.350 mg;6.120,00 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.15;6-004.5e;2.350 mg bis unter 2.750 mg;7.295,04 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.16;6-004.5f;2.750 mg bis unter 3.150 mg;8.470,08 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.17;6-004.5g;3.150 mg bis unter 3.950 mg;10.036,80 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.18;6-004.5h;3.950 mg bis unter 4.750 mg;12.386,88 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.19;6-004.5j;4.750 mg bis unter 5.550 mg;14.736,96 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.20;6-004.5k;5.550 mg bis unter 6.350 mg;17.087,04 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.21;6-004.5m;6.350 mg bis unter 7.950 mg;20.220,48 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.22;6-004.5n;7.950 mg bis unter 9.550 mg;24.920,64 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.23;6-004.5p;9.550 mg bis unter 11.150 mg;29.620,80 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.24;6-004.5q;11.150 mg bis unter 12.750 mg;34.320,96 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.25;6-004.5r;12.750 mg bis unter 14.350 mg;39.021,12 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.26;6-004.5s;14.350 mg bis unter 15.950 mg;43.721,28 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.27;6-004.5t;15.950 mg bis unter 17.550 mg;48.421,44 €
+ZE128;Gabe von Micafungin, parenteral;ZE128.28;6-004.5u;17.550 mg oder mehr;53.121,60 €
+ZE132;Implantation eines Wachstumsstents;ZE132.01;8-838.k*;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Einlegen eines ungecoverten Wachstumsstents;1.195,85 €
+ZE132;Implantation eines Wachstumsstents;ZE132.01;8-838.m*;(Perkutan-)transluminale Gefäßintervention an Gefäßen des Lungenkreislaufes: Einlegen eines gecoverten Wachstumsstents;1195,85
+ZE132;Implantation eines Wachstumsstents;ZE132.01;8-845.0*;(Perkutan-)transluminale Implantation von ungecoverten Cheatham-Platinum-Stents [CP-Stent]: Ein Stent;1195,85
+ZE132;Implantation eines Wachstumsstents;ZE132.01;8-846.0*;(Perkutan-)transluminale Implantation von gecoverten Cheatham-Platinum-Stents [CP-Stent]: Ein Stent;1195,85
+ZE132;Implantation eines Wachstumsstents;ZE132.01;8-847;(Perkutan-)transluminale Implantation eines Wachstumsstents;1195,85
+ZE132;Implantation eines Wachstumsstents;ZE132.02;8-845.1*;(Perkutan-)transluminale Implantation von ungecoverten Cheatham-Platinum-Stents [CP-Stent]: Zwei oder mehr Stents;2.391,70 €
+ZE132;Implantation eines Wachstumsstents;ZE132.02;8-846.1*;(Perkutan-)transluminale Implantation von gecoverten Cheatham-Platinum-Stents [CP-Stent]: Zwei oder mehr Stents;2391,7
+ZE133;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Mikrodrahtretriever-Systems;;8-836.60;(Perkutan-)transluminale Gefäßintervention: Fremdkörperentfernung: Gefäße intrakraniell;
+ZE133;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Mikrodrahtretriever-Systems;;8-836.80;(Perkutan-)transluminale Gefäßintervention: Thrombektomie: Gefäße intrakraniell;
+ZE133;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Mikrodrahtretriever-Systems;ZE133.01;8-83b.80;Zusatzinformationen zu Materialien: Verwendung eines Mikrodrahtretriever- oder Stentretriever-Systems zur Thrombektomie oder Fremdkörperentfernung: 1 Mikrodrahtretriever-System;1.276,65 €
+ZE133;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Mikrodrahtretriever-Systems;ZE133.02;8-83b.82;Zusatzinformationen zu Materialien: Verwendung eines Mikrodrahtretriever- oder Stentretriever-Systems zur Thrombektomie oder Fremdkörperentfernung: 2 Mikrodrahtretriever-Systeme;2.553,30 €
+ZE133;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Mikrodrahtretriever-Systems;ZE133.03;8-83b.83;Zusatzinformationen zu Materialien: Verwendung eines Mikrodrahtretriever- oder Stentretriever-Systems zur Thrombektomie oder Fremdkörperentfernung: 3 oder mehr Mikrodrahtretriever-Systeme;3.829,95 €
+ZE135;Gabe von Vinflunin, parenteral;;;Applikation von Medikamenten, Liste 5: Vinflunin, parenteral;Applikation von Medikamenten, Liste 5: Vinflunin, parenteral
+ZE135;Gabe von Vinflunin, parenteral;ZE135.01;6-005.b0;100 mg bis unter 200 mg;775,75 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.02;6-005.b1;200 mg bis unter 300 mg;1.357,56 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.03;6-005.b2;300 mg bis unter 400 mg;1.939,37 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.04;6-005.b3;400 mg bis unter 500 mg;2.521,18 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.05;6-005.b4;500 mg bis unter 600 mg;3.102,99 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.06;6-005.b5;600 mg bis unter 700 mg;3.684,80 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.07;6-005.b6;700 mg bis unter 800 mg;4.266,61 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.08;6-005.b7;800 mg bis unter 900 mg;4.848,42 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.09;6-005.b8;900 mg bis unter 1.000 mg;5.430,23 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.10;6-005.b9;1.000 mg bis unter 1.200 mg;6.205,97 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.11;6-005.ba;1.200 mg bis unter 1.400 mg;7.369,59 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.12;6-005.bb;1.400 mg bis unter 1.600 mg;8.533,21 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.13;6-005.bc;1.600 mg bis unter 1.800 mg;9.696,83 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.14;6-005.bd;1.800 mg bis unter 2.000 mg;10.860,45 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.15;6-005.be;2.000 mg bis unter 2.200 mg;12.024,07 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.16;6-005.bf;2.200 mg bis unter 2.400 mg;13.187,69 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.17;6-005.bg;2.400 mg bis unter 2.600 mg;14.351,31 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.18;6-005.bh;2.600 mg bis unter 2.800 mg;15.514,93 €
+ZE135;Gabe von Vinflunin, parenteral;ZE135.19;6-005.bj;2.800 mg oder mehr;16.678,55 €
+ZE136;Medikamente-freisetzende Ballons an Koronargefäßen;;8-837.00;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Ballon-Angioplastie: Eine Koronararterie;
+ZE136;Medikamente-freisetzende Ballons an Koronargefäßen;;8-837.01;Perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Ballon-Angioplastie: Mehrere Koronararterien;
+ZE136;Medikamente-freisetzende Ballons an Koronargefäßen;ZE136.01;8-83b.b6;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Ein medikamentefreisetzender Ballon an Koronargefäßen;198,22 €
+ZE136;Medikamente-freisetzende Ballons an Koronargefäßen;ZE136.02;8-83b.b7;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Zwei medikamentefreisetzende Ballons an Koronargefäßen;585,62 €
+ZE136;Medikamente-freisetzende Ballons an Koronargefäßen;ZE136.03;8-83b.b8;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Drei medikamentefreisetzende Ballons an Koronargefäßen;973,02 €
+ZE136;Medikamente-freisetzende Ballons an Koronargefäßen;ZE136.04;8-83b.b9;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Vier oder mehr medikamentefreisetzende Ballons an Koronargefäßen;1.360,42 €
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.02;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Gefäße Schulter und Oberarm;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.03;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Gefäße Unterarm;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.08;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Andere Gefäße thorakal;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0a;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Gefäße viszeral;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0c;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Gefäße Unterschenkel;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0e;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Künstliche Gefäße;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0q;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Andere Arterien abdominal und pelvin;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0r;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Andere Venen abdominal und pelvin;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0s;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Arterien Oberschenkel;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;;8-836.0t;(Perkutan-)transluminale Gefäßintervention: Ballon-Angioplastie: Venen Oberschenkel;
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;ZE137.01;8-83b.ba;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Ein medikamentefreisetzender Ballon an anderen Gefäßen;148,68 €
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;ZE137.02;8-83b.bb;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Zwei medikamentefreisetzende Ballons an anderen Gefäßen;527,16 €
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;ZE137.03;8-83b.bc;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Drei medikamentefreisetzende Ballons an anderen Gefäßen;905,64 €
+ZE137;Medikamente-freisetzende Ballons an anderen Gefäßen;ZE137.04;8-83b.bd;Zusatzinformationen zu Materialien: Art der verwendeten Ballons: Vier oder mehr medikamentefreisetzende Ballons an anderen Gefäßen;1.284,12 €
+ZE138;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, mit Sondenimplantation;;5-039.e0;Implantation oder Wechsel eines Neurostimulators zur epiduralen Rückenmarkstimulation mit Implantation oder Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE138;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, mit Sondenimplantation;;5-039.k0;Implantation oder Wechsel eines Neurostimulators zur Stimulation von Spinalganglien mit Implantation oder Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE138;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, mit Sondenimplantation;;5-059.c0;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE139;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, ohne Sondenimplantation;;5-039.f0;Wechsel eines Neurostimulators zur epiduralen Rückenmarkstimulation ohne Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE139;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, ohne Sondenimplantation;;5-039.m0;Wechsel eines Neurostimulators zur Stimulation von Spinalganglien ohne Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE139;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, ohne Sondenimplantation;;5-039.n0;Implantation eines Neurostimulators zur epiduralen Rückenmarkstimulation ohne Implantation einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE139;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, ohne Sondenimplantation;;5-039.q0;Implantation eines Neurostimulators zur Stimulation von Spinalganglien ohne Implantation einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE139;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, ohne Sondenimplantation;;5-059.d0;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE139;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Einkanalstimulator, ohne Sondenimplantation;;5-059.g0;Implantation eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Implantation einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE140;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, mit Sondenimplantation;;5-039.e1;Implantation oder Wechsel eines Neurostimulators zur epiduralen Rückenmarkstimulation mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE140;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, mit Sondenimplantation;;5-039.k1;Implantation oder Wechsel eines Neurostimulators zur Stimulation von Spinalganglien mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE140;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, mit Sondenimplantation;;5-059.c1;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE141;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, ohne Sondenimplantation;;5-039.f1;Wechsel eines Neurostimulators zur epiduralen Rückenmarkstimulation ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE141;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, ohne Sondenimplantation;;5-039.m1;Wechsel eines Neurostimulators zur Stimulation von Spinalganglien ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE141;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, ohne Sondenimplantation;;5-039.n1;Implantation eines Neurostimulators zur epiduralen Rückenmarkstimulation ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE141;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, ohne Sondenimplantation;;5-039.q1;Implantation eines Neurostimulators zur Stimulation von Spinalganglien ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE141;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, ohne Sondenimplantation;;5-059.d1;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE141;Neurostimulatoren zur Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, nicht wiederaufladbar, ohne Sondenimplantation;;5-059.g1;Implantation eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, nicht wiederaufladbar;siehe Anlage 2
+ZE143;Gabe von Plerixafor, parenteral;;;Applikation von Medikamenten, Liste 5: Plerixafor, parenteral;Applikation von Medikamenten, Liste 5: Plerixafor, parenteral
+ZE143;Gabe von Plerixafor, parenteral;ZE143.01;6-005.e0;2,5 mg bis unter 5,0 mg;966,85 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.02;6-005.e1;5,0 mg bis unter 10,0 mg;1.933,69 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.03;6-005.e2;10,0 mg bis unter 15,0 mg;3.383,96 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.04;6-005.e3;15,0 mg bis unter 20,0 mg;4.834,23 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.05;6-005.e4;20,0 mg bis unter 25,0 mg;6.284,50 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.06;6-005.e5;25,0 mg bis unter 30,0 mg;7.734,77 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.07;6-005.e6;30,0 mg bis unter 35,0 mg;9.185,04 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.08;6-005.e7;35,0 mg bis unter 40,0 mg;10.635,31 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.09;6-005.e8;40,0 mg bis unter 45,0 mg;12.022,73 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.10;6-005.e9;45,0 mg bis unter 50,0 mg;13.535,84 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.11;6-005.ea;50,0 mg bis unter 60,0 mg;15.469,54 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.12;6-005.eb;60,0 mg bis unter 70,0 mg;18.370,07 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.13;6-005.ec;70,0 mg bis unter 80,0 mg;21.270,61 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.14;6-005.ed;80,0 mg bis unter 100,0 mg;25.138,00 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.15;6-005.ee;100,0 mg bis unter 120,0 mg;30.939,07 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.16;6-005.ef;120,0 mg bis unter 140,0 mg;36.740,15 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.17;6-005.eg;140,0 mg bis unter 160,0 mg;42.541,22 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.18;6-005.eh;160,0 mg bis unter 180,0 mg;48.342,30 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.19;6-005.ej;180,0 mg bis unter 200,0 mg;54.143,38 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.20;6-005.ek;200,0 mg bis unter 220,0 mg;59.944,45 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.21;6-005.em;220,0 mg bis unter 240,0 mg;65.745,53 €
+ZE143;Gabe von Plerixafor, parenteral;ZE143.22;6-005.en;240,0 mg oder mehr;71.546,60 €
+ZE144;Gabe von Romiplostim, parenteral;;;Applikation von Medikamenten, Liste 5: Romiplostim, parenteral;Applikation von Medikamenten, Liste 5: Romiplostim, parenteral
+ZE144;Gabe von Romiplostim, parenteral;ZE144.016);6-005.90;100 µg bis unter 200 µg;375,32 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.02;6-005.91;200 µg bis unter 300 µg;656,81 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.03;6-005.92;300 µg bis unter 400 µg;938,30 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.04;6-005.93;400 µg bis unter 500 µg;1.219,79 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.05;6-005.94;500 µg bis unter 600 µg;1.423,58 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.06;6-005.95;600 µg bis unter 700 µg;1.782,77 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.07;6-005.96;700 µg bis unter 800 µg;2.064,26 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.08;6-005.97;800 µg bis unter 900 µg;2.345,75 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.09;6-005.98;900 µg bis unter 1.000 µg;2.627,24 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.10;6-005.99;1.000 µg bis unter 1.200 µg;2.814,90 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.11;6-005.9a;1.200 µg bis unter 1.400 µg;3.565,54 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.12;6-005.9b;1.400 µg bis unter 1.600 µg;4.128,52 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.13;6-005.9c;1.600 µg bis unter 1.800 µg;4.691,50 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.14;6-005.9d;1.800 µg bis unter 2.000 µg;5.254,48 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.15;6-005.9e;2.000 µg bis unter 2.400 µg;6.005,12 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.16;6-005.9f;2.400 µg bis unter 2.800 µg;7.131,08 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.17;6-005.9g;2.800 µg bis unter 3.200 µg;8.257,04 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.18;6-005.9h;3.200 µg bis unter 3.600 µg;9.383,00 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.19;6-005.9j;3.600 µg bis unter 4.000 µg;10.508,96 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.20;6-005.9k;4.000 µg bis unter 4.400 µg;11.634,92 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.21;6-005.9m;4.400 µg bis unter 4.800 µg;12.760,88 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.22;6-005.9n;4.800 µg bis unter 5.200 µg;13.886,84 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.23;6-005.9p;5.200 µg bis unter 5.600 µg;15.012,80 €
+ZE144;Gabe von Romiplostim, parenteral;ZE144.24;6-005.9q;5.600 µg oder mehr;16.138,76 €
+ZE145;Spezialisierte stationäre palliativmedizinische Komplexbehandlung;ZE145.01;8-98e.1;Spezialisierte stationäre palliativmedizinische Komplexbehandlung: Mindestens 7 bis höchstens 13 Behandlungstage;990,45 €
+ZE145;Spezialisierte stationäre palliativmedizinische Komplexbehandlung;ZE145.02;8-98e.2;Spezialisierte stationäre palliativmedizinische Komplexbehandlung: Mindestens 14 bis höchstens 20 Behandlungstage;1.026,51 €
+ZE145;Spezialisierte stationäre palliativmedizinische Komplexbehandlung;ZE145.03;8-98e.3;Spezialisierte stationäre palliativmedizinische Komplexbehandlung: Mindestens 21 Behandlungstage;1.754,47 €
+ZE146;Gabe von Thrombozytenkonzentraten;;;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Thrombozytenkonzentrat;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Thrombozytenkonzentrat
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.016);8-800.g1;2 Thrombozytenkonzentrate;566,55 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.026);8-800.g2;3 Thrombozytenkonzentrate;849,83 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.03;8-800.g3;4 Thrombozytenkonzentrate;1.133,11 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.04;8-800.g4;5 Thrombozytenkonzentrate;1.416,39 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.05;8-800.g5;6 bis unter 8 Thrombozytenkonzentrate;1.810,14 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.06;8-800.g6;8 bis unter 10 Thrombozytenkonzentrate;2.390,86 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.07;8-800.g7;10 bis unter 12 Thrombozytenkonzentrate;2.965,91 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.08;8-800.g8;12 bis unter 14 Thrombozytenkonzentrate;3.529,63 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.09;8-800.g9;14 bis unter 16 Thrombozytenkonzentrate;4.107,52 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.10;8-800.ga;16 bis unter 18 Thrombozytenkonzentrate;4.674,07 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.11;8-800.gb;18 bis unter 20 Thrombozytenkonzentrate;5.240,62 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.12;8-800.gc;20 bis unter 24 Thrombozytenkonzentrate;5.948,82 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.13;8-800.gd;24 bis unter 28 Thrombozytenkonzentrate;7.081,93 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.14;8-800.ge;28 bis unter 32 Thrombozytenkonzentrate;8.215,03 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.15;8-800.gf;32 bis unter 36 Thrombozytenkonzentrate;9.348,14 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.16;8-800.gg;36 bis unter 40 Thrombozytenkonzentrate;10.481,25 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.17;8-800.gh;40 bis unter 46 Thrombozytenkonzentrate;11.756,00 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.18;8-800.gj;46 bis unter 52 Thrombozytenkonzentrate;13.455,66 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.19;8-800.gk;52 bis unter 58 Thrombozytenkonzentrate;15.155,32 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.20;8-800.gm;58 bis unter 64 Thrombozytenkonzentrate;16.854,98 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.21;8-800.gn;64 bis unter 70 Thrombozytenkonzentrate;18.554,64 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.22;8-800.gp;70 bis unter 78 Thrombozytenkonzentrate;20.395,94 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.23;8-800.gq;78 bis unter 86 Thrombozytenkonzentrate;22.662,16 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.24;8-800.gr;86 bis unter 94 Thrombozytenkonzentrate;24.928,38 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.25;8-800.gs;94 bis unter 102 Thrombozytenkonzentrate;27.194,59 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.26;8-800.gt;102 bis unter 110 Thrombozytenkonzentrate;29.460,81 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.27;8-800.gu;110 bis unter 118 Thrombozytenkonzentrate;31.727,02 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.28;8-800.gv;118 bis unter 126 Thrombozytenkonzentrate;33.993,24 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.29;;Siehe weitere Differenzierung ZE146.30 - ZE146.46;
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.30;8-800.gz;126 bis unter 134 Thrombozytenkonzentrate;36.259,46 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.31;8-800.m0;134 bis unter 146 Thrombozytenkonzentrate;38.808,95 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.32;8-800.m1;146 bis unter 158 Thrombozytenkonzentrate;42.208,27 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.33;8-800.m2;158 bis unter 170 Thrombozytenkonzentrate;45.607,60 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.34;8-800.m3;170 bis unter 182 Thrombozytenkonzentrate;49.006,92 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.35;8-800.m4;182 bis unter 194 Thrombozytenkonzentrate;52.406,25 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.36;8-800.m5;194 bis unter 210 Thrombozytenkonzentrate;56.088,85 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.37;8-800.m6;210 bis unter 226 Thrombozytenkonzentrate;60.621,28 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.38;8-800.m7;226 bis unter 242 Thrombozytenkonzentrate;65.153,71 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.39;8-800.m8;242 bis unter 258 Thrombozytenkonzentrate;69.686,14 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.40;8-800.m9;258 bis unter 274 Thrombozytenkonzentrate;74.218,57 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.41;8-800.ma;274 bis unter 294 Thrombozytenkonzentrate;79.034,28 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.42;8-800.mb;294 bis unter 314 Thrombozytenkonzentrate;84.699,82 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.43;8-800.mc;314 bis unter 334 Thrombozytenkonzentrate;90.365,36 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.44;8-800.md;334 bis unter 354 Thrombozytenkonzentrate;96.030,90 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.45;8-800.me;354 bis unter 374 Thrombozytenkonzentrate;101.696,44 €
+ZE146;Gabe von Thrombozytenkonzentraten;ZE146.46;8-800.mf;374 oder mehr Thrombozytenkonzentrate;107.361,98 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;;;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Apherese-Thrombozytenkonzentrat;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Apherese-Thrombozytenkonzentrat
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.016);8-800.f0;1 Apherese-Thrombozytenkonzentrat;354,04 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.02;8-800.f1;2 Apherese-Thrombozytenkonzentrate;708,08 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.03;8-800.f2;3 Apherese-Thrombozytenkonzentrate;1.062,12 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.04;8-800.f3;4 Apherese-Thrombozytenkonzentrate;1.416,16 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.05;8-800.f4;5 Apherese-Thrombozytenkonzentrate;1.770,21 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.06;8-800.f5;6 bis unter 8 Apherese-Thrombozytenkonzentrate;2.263,32 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.07;8-800.f6;8 bis unter 10 Apherese-Thrombozytenkonzentrate;2.981,20 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.08;8-800.f7;10 bis unter 12 Apherese-Thrombozytenkonzentrate;3.688,59 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.09;8-800.f8;12 bis unter 14 Apherese-Thrombozytenkonzentrate;4.375,59 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.10;8-800.f9;14 bis unter 16 Apherese-Thrombozytenkonzentrate;5.098,19 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.11;8-800.fa;16 bis unter 18 Apherese-Thrombozytenkonzentrate;5.859,09 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.12;8-800.fb;18 bis unter 20 Apherese-Thrombozytenkonzentrate;6.518,98 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.13;8-800.fc;20 bis unter 24 Apherese-Thrombozytenkonzentrate;7.434,87 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.14;8-800.fd;24 bis unter 28 Apherese-Thrombozytenkonzentrate;8.851,03 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.15;8-800.fe;28 bis unter 32 Apherese-Thrombozytenkonzentrate;10.267,19 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.16;8-800.ff;32 bis unter 36 Apherese-Thrombozytenkonzentrate;11.683,36 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.17;8-800.fg;36 bis unter 40 Apherese-Thrombozytenkonzentrate;13.099,52 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.18;8-800.fh;40 bis unter 46 Apherese-Thrombozytenkonzentrate;14.692,71 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.19;8-800.fj;46 bis unter 52 Apherese-Thrombozytenkonzentrate;16.816,96 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.20;8-800.fk;52 bis unter 58 Apherese-Thrombozytenkonzentrate;18.941,20 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.21;8-800.fm;58 bis unter 64 Apherese-Thrombozytenkonzentrate;21.065,45 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.22;8-800.fn;64 bis unter 70 Apherese-Thrombozytenkonzentrate;23.189,70 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.23;8-800.fp;70 bis unter 78 Apherese-Thrombozytenkonzentrate;25.490,97 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.24;8-800.fq;78 bis unter 86 Apherese-Thrombozytenkonzentrate;28.323,30 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.25;8-800.fr;86 bis unter 94 Apherese-Thrombozytenkonzentrate;31.155,63 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.26;8-800.fs;94 bis unter 102 Apherese-Thrombozytenkonzentrate;33.987,96 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.27;8-800.ft;102 bis unter 110 Apherese-Thrombozytenkonzentrate;36.820,28 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.28;8-800.fu;110 bis unter 118 Apherese-Thrombozytenkonzentrate;39.652,61 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.29;8-800.fv;118 bis unter 126 Apherese-Thrombozytenkonzentrate;42.484,94 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.30;;Siehe weitere Differenzierung ZE147.31 - ZE147.47;
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.31;8-800.fz;126 bis unter 134 Apherese-Thrombozytenkonzentrate;45.317,27 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.32;8-800.k0;134 bis unter 146 Apherese-Thrombozytenkonzentrate;48.503,64 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.33;8-800.k1;146 bis unter 158 Apherese-Thrombozytenkonzentrate;52.752,14 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.34;8-800.k2;158 bis unter 170 Apherese-Thrombozytenkonzentrate;57.000,63 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.35;8-800.k3;170 bis unter 182 Apherese-Thrombozytenkonzentrate;61.249,13 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.36;8-800.k4;182 bis unter 194 Apherese-Thrombozytenkonzentrate;65.497,62 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.37;8-800.k5;194 bis unter 210 Apherese-Thrombozytenkonzentrate;70.100,16 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.38;8-800.k6;210 bis unter 226 Apherese-Thrombozytenkonzentrate;75.764,82 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.39;8-800.k7;226 bis unter 242 Apherese-Thrombozytenkonzentrate;81.429,48 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.40;8-800.k8;242 bis unter 258 Apherese-Thrombozytenkonzentrate;87.094,14 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.41;8-800.k9;258 bis unter 274 Apherese-Thrombozytenkonzentrate;92.758,79 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.42;8-800.ka;274 bis unter 294 Apherese-Thrombozytenkonzentrate;98.777,49 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.43;8-800.kb;294 bis unter 314 Apherese-Thrombozytenkonzentrate;105.858,32 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.44;8-800.kc;314 bis unter 334 Apherese-Thrombozytenkonzentrate;112.939,14 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.45;8-800.kd;334 bis unter 354 Apherese-Thrombozytenkonzentrate;120.019,97 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.46;8-800.ke;354 bis unter 374 Apherese-Thrombozytenkonzentrate;127.100,79 €
+ZE147;Gabe von Apherese-Thrombozytenkonzentraten;ZE147.47;8-800.kf;374 oder mehr Apherese-Thrombozytenkonzentrate;134.181,61 €
+ZE151;Gabe von Abatacept, intravenös;;;Applikation von Medikamenten, Liste 3: Abatacept, intravenös;Applikation von Medikamenten, Liste 3: Abatacept, intravenös
+ZE151;Gabe von Abatacept, intravenös;ZE151.016);6-003.s0;125 mg bis unter 250 mg;306,72 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.026);6-003.s1;250 mg bis unter 500 mg;613,43 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.03;6-003.s2;500 mg bis unter 750 mg;920,15 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.04;6-003.s3;750 mg bis unter 1.000 mg;1.380,23 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.05;6-003.s4;1.000 mg bis unter 1.250 mg;1.840,30 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.06;6-003.s5;1.250 mg bis unter 1.500 mg;2.300,38 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.07;6-003.s6;1.500 mg bis unter 1.750 mg;2.760,45 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.08;6-003.s7;1.750 mg bis unter 2.000 mg;3.220,53 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.09;6-003.s8;2.000 mg bis unter 2.250 mg;3.680,60 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.10;6-003.s9;2.250 mg bis unter 2.500 mg;4.140,68 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.11;6-003.sa;2.500 mg bis unter 2.750 mg;4.600,75 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.12;6-003.sb;2.750 mg bis unter 3.000 mg;5.060,83 €
+ZE151;Gabe von Abatacept, intravenös;ZE151.13;6-003.sc;3.000 mg oder mehr;5.520,90 €
+ZE152;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Stentretriever-Systems;;8-836.60;(Perkutan-)transluminale Gefäßintervention: Fremdkörperentfernung: Gefäße intrakraniell;
+ZE152;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Stentretriever-Systems;;8-836.80;(Perkutan-)transluminale Gefäßintervention: Thrombektomie: Gefäße intrakraniell;
+ZE152;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Stentretriever-Systems;ZE152.01;8-83b.84;Zusatzinformationen zu Materialien: Verwendung eines Mikrodrahtretriever- oder Stentretriever-Systems zur Thrombektomie oder Fremdkörperentfernung: 1 Stentretriever-System;1.682,24 €
+ZE152;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Stentretriever-Systems;ZE152.02;8-83b.85;Zusatzinformationen zu Materialien: Verwendung eines Mikrodrahtretriever- oder Stentretriever-Systems zur Thrombektomie oder Fremdkörperentfernung: 2 Stentretriever-Systeme;3.364,48 €
+ZE152;Perkutan-transluminale Fremdkörperentfernung und Thrombektomie an intrakraniellen Gefäßen unter Verwendung eines Stentretriever-Systems;ZE152.03;8-83b.86;Zusatzinformationen zu Materialien: Verwendung eines Mikrodrahtretriever- oder Stentretriever-Systems zur Thrombektomie oder Fremdkörperentfernung: 3 oder mehr Stentretriever-Systeme;5.046,72 €
+ZE153;Zügeloperation mit alloplastischem Material, adjustierbar;;5-594.31;Suprapubische (urethrovesikale) Zügeloperation [Schlingenoperation]: Mit alloplastischem Material: Adjustierbar;siehe Anlage 2
+ZE154;Gabe von Eculizumab, parenteral;;;Applikation von Medikamenten, Liste 3: Eculizumab, parenteral;Applikation von Medikamenten, Liste 3: Eculizumab, parenteral
+ZE154;Gabe von Eculizumab, parenteral;ZE154.01;6-003.h0;300 mg bis unter 600 mg;5.369,91 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.02;6-003.h1;600 mg bis unter 900 mg;10.739,82 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.03;6-003.h2;900 mg bis unter 1.200 mg;16.109,73 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.04;6-003.h3;1.200 mg bis unter 1.500 mg;21.479,64 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.05;6-003.h4;1.500 mg bis unter 1.800 mg;26.849,55 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.06;6-003.h5;1.800 mg bis unter 2.100 mg;32.219,46 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.07;6-003.h6;2.100 mg bis unter 2.400 mg;37.589,37 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.08;6-003.h7;2.400 mg bis unter 2.700 mg;42.959,28 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.09;6-003.h8;2.700 mg bis unter 3.000 mg;48.329,19 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.10;6-003.h9;3.000 mg bis unter 3.300 mg;53.699,10 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.11;6-003.ha;3.300 mg bis unter 3.600 mg;59.069,01 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.12;6-003.hb;3.600 mg bis unter 3.900 mg;64.438,92 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.13;6-003.hc;3.900 mg bis unter 4.200 mg;69.808,83 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.14;6-003.hd;4.200 mg bis unter 4.500 mg;75.178,74 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.15;6-003.he;4.500 mg bis unter 4.800 mg;80.548,65 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.16;6-003.hf;4.800 mg bis unter 5.100 mg;85.918,56 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.17;6-003.hg;5.100 mg bis unter 5.400 mg;91.288,47 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.18;6-003.hh;5.400 mg bis unter 5.700 mg;96.658,38 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.19;6-003.hj;5.700 mg bis unter 6.000 mg;102.028,29 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.20;;Siehe weitere Differenzierung ZE154.21 bis ZE154.31;
+ZE154;Gabe von Eculizumab, parenteral;ZE154.21;6-003.hm;6.000 mg bis unter 6.600 mg;110.083,16 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.22;6-003.hn;6.600 mg bis unter 7.200 mg;120.822,98 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.23;6-003.hp;7.200 mg bis unter 7.800 mg;131.562,80 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.24;6-003.hq;7.800 mg bis unter 8.400 mg;142.302,62 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.25;6-003.hr;8.400 mg bis unter 9.600 mg;155.727,39 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.26;6-003.hs;9.600 mg bis unter 10.800 mg;177.207,03 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.27;6-003.ht;10.800 mg bis unter 13.200 mg;207.636,52 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.28;6-003.hu;13.200 mg bis unter 15.600 mg;250.595,80 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.29;6-003.hv;15.600 mg bis unter 20.400 mg;307.874,84 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.30;6-003.hw;20.400 mg bis unter 25.200 mg;393.793,40 €
+ZE154;Gabe von Eculizumab, parenteral;ZE154.31;6-003.hz;25.200 mg oder mehr;479.711,96 €
+ZE156;Gabe von Decitabin, parenteral;;;Applikation von Medikamenten, Liste 4: Decitabin, parenteral;Applikation von Medikamenten, Liste 4: Decitabin, parenteral
+ZE156;Gabe von Decitabin, parenteral;ZE156.01;6-004.40;30 mg bis unter 60 mg;905,83 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.02;6-004.41;60 mg bis unter 90 mg;1.685,94 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.03;6-004.42;90 mg bis unter 120 mg;2.408,49 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.04;6-004.43;120 mg bis unter 150 mg;3.131,04 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.05;6-004.44;150 mg bis unter 180 mg;3.853,58 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.06;6-004.45;180 mg bis unter 210 mg;4.576,13 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.07;6-004.46;210 mg bis unter 240 mg;5.298,68 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.08;6-004.47;240 mg bis unter 270 mg;6.021,23 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.09;6-004.48;270 mg bis unter 300 mg;6.743,77 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.10;6-004.49;300 mg bis unter 330 mg;7.466,32 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.11;6-004.4a;330 mg bis unter 360 mg;8.188,87 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.12;6-004.4b;360 mg bis unter 390 mg;8.911,41 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.13;6-004.4c;390 mg bis unter 420 mg;9.633,96 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.14;6-004.4d;420 mg bis unter 450 mg;10.356,51 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.15;6-004.4e;450 mg bis unter 480 mg;11.079,05 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.16;6-004.4f;480 mg bis unter 510 mg;11.801,60 €
+ZE156;Gabe von Decitabin, parenteral;ZE156.17;6-004.4g;510 mg oder mehr;12.524,15 €
+ZE157;Gabe von Tocilizumab, intravenös;;;Applikation von Medikamenten, Liste 5: Tocilizumab, intravenös;Applikation von Medikamenten, Liste 5: Tocilizumab, intravenös
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.016);6-005.m0;80 mg bis unter 200 mg;326,75 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.026);6-005.m1;200 mg bis unter 320 mg;653,50 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.03;6-005.m2;320 mg bis unter 480 mg;980,24 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.04;6-005.m3;480 mg bis unter 640 mg;1.415,91 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.05;6-005.m4;640 mg bis unter 800 mg;1.846,48 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.06;6-005.m5;800 mg bis unter 960 mg;2.217,26 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.07;6-005.m6;960 mg bis unter 1.120 mg;2.722,90 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.08;6-005.m7;1.120 mg bis unter 1.280 mg;3.158,56 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.09;6-005.m8;1.280 mg bis unter 1.440 mg;3.594,23 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.10;6-005.m9;1.440 mg bis unter 1.600 mg;4.029,89 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.11;6-005.ma;1.600 mg bis unter 1.760 mg;4.465,56 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.12;6-005.mb;1.760 mg bis unter 1.920 mg;4.901,22 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.13;6-005.mc;1.920 mg bis unter 2.080 mg;5.336,88 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.14;;Siehe weitere Differenzierung ZE157.15 bis ZE157.29;
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.15;6-005.me;2.080 mg bis unter 2.400 mg;5.881,46 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.16;6-005.mf;2.400 mg bis unter 2.720 mg;6.752,79 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.17;6-005.mg;2.720 mg bis unter 3.040 mg;7.624,12 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.18;6-005.mh;3.040 mg bis unter 3.360 mg;8.495,45 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.19;6-005.mj;3.360 mg bis unter 3.680 mg;9.366,78 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.20;6-005.mk;3.680 mg bis unter 4.000 mg;10.238,10 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.21; ;Siehe weitere Differenzierung ZE157.22 bis ZE157.29;
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.22;6-005.mn;4.000 mg bis unter 4.640 mg;11.327,26 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.23;6-005.mp;4.640 mg bis unter 5.280 mg;13.069,92 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.24;6-005.mq;5.280 mg bis unter 5.920 mg;14.812,58 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.25;6-005.mr;5.920 mg bis unter 6.560 mg;16.555,23 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.26;6-005.ms;6.560 mg bis unter 7.200 mg;18.297,89 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.27;6-005.mt;7.200 mg bis unter 7.840 mg;20.040,54 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.28;6-005.mu;7.840 mg bis unter 8.480 mg;21.783,20 €
+ZE157;Gabe von Tocilizumab, intravenös;ZE157.29;6-005.mv;8.480 mg oder mehr;23.525,86 €
+ZE158;Vagusnervstimulationssysteme, mit Sondenimplantation;;5-059.c8;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: Vagusnervstimulationssystem;siehe Anlage 2
+ZE159;Vagusnervstimulationssysteme, ohne Sondenimplantation;;5-059.d8;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: Vagusnervstimulationssystem;siehe Anlage 2
+ZE161;Radiofrequenzablation Ösophagus;;5-422.55;Lokale Exzision und Destruktion von erkranktem Gewebe des Ösophagus: Destruktion, endoskopisch: Radiofrequenzablation;siehe Anlage 2
+ZE162;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;;Pflegebedürftigkeit im Sinne § 14 SGB XI und Pflegegrad gemäß § 15 SGB XI;Pflegebedürftigkeit im Sinne § 14 SGB XI und Pflegegrad gemäß § 15 SGB XI
+ZE162;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;9-984.8;Pflegebedürftig nach Pflegegrad 3;siehe Anlage 2
+ZE162;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;9-984.9;Pflegebedürftig nach Pflegegrad 4;siehe Anlage 2
+ZE162;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;9-984.a;Pflegebedürftig nach Pflegegrad 5;siehe Anlage 2
+ZE163;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;;Pflegebedürftigkeit im Sinne § 14 SGB XI und Pflegegrad gemäß § 15 SGB XI;Pflegebedürftigkeit im Sinne § 14 SGB XI und Pflegegrad gemäß § 15 SGB XI
+ZE163;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;9-984.8;Pflegebedürftig nach Pflegegrad 3;siehe Anlage 2
+ZE163;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;9-984.9;Pflegebedürftig nach Pflegegrad 4;siehe Anlage 2
+ZE163;Erhöhter Pflegeaufwand bei pflegebedürftigen Patienten (DRG-Tabelle;;9-984.a;Pflegebedürftig nach Pflegegrad 5;siehe Anlage 2
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;;;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Pathogeninaktiviertes Thrombozytenkonzentrat;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Pathogeninaktiviertes Thrombozytenkonzentrat
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.016);8-800.h1;2 pathogeninaktivierte Thrombozytenkonzentrate;688,17 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.026);8-800.h2;3 pathogeninaktivierte Thrombozytenkonzentrate;1.032,25 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.03;8-800.h3;4 pathogeninaktivierte Thrombozytenkonzentrate;1.376,34 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.04;8-800.h4;5 pathogeninaktivierte Thrombozytenkonzentrate;1.720,42 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.05;8-800.h5;6 bis unter 8 pathogeninaktivierte Thrombozytenkonzentrate;2.236,55 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.06;8-800.h6;8 bis unter 10 pathogeninaktivierte Thrombozytenkonzentrate;2.924,72 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.07;8-800.h7;10 bis unter 12 pathogeninaktivierte Thrombozytenkonzentrate;3.612,89 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.08;8-800.h8;12 bis unter 14 pathogeninaktivierte Thrombozytenkonzentrate;4.301,06 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.09;8-800.h9;14 bis unter 16 pathogeninaktivierte Thrombozytenkonzentrate;4.989,23 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.10;8-800.ha;16 bis unter 18 pathogeninaktivierte Thrombozytenkonzentrate;5.677,40 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.11;8-800.hb;18 bis unter 20 pathogeninaktivierte Thrombozytenkonzentrate;6.365,57 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.12;8-800.hc;20 bis unter 24 pathogeninaktivierte Thrombozytenkonzentrate;7.225,78 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.13;8-800.hd;24 bis unter 28 pathogeninaktivierte Thrombozytenkonzentrate;8.602,12 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.14;8-800.he;28 bis unter 32 pathogeninaktivierte Thrombozytenkonzentrate;9.978,46 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.15;8-800.hf;32 bis unter 36 pathogeninaktivierte Thrombozytenkonzentrate;11.354,80 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.16;8-800.hg;36 bis unter 40 pathogeninaktivierte Thrombozytenkonzentrate;12.731,14 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.17;8-800.hh;40 bis unter 46 pathogeninaktivierte Thrombozytenkonzentrate;14.279,52 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.18;8-800.hj;46 bis unter 52 pathogeninaktivierte Thrombozytenkonzentrate;16.344,03 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.19;8-800.hk;52 bis unter 58 pathogeninaktivierte Thrombozytenkonzentrate;18.408,54 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.20;8-800.hm;58 bis unter 64 pathogeninaktivierte Thrombozytenkonzentrate;20.473,05 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.21;8-800.hn;64 bis unter 70 pathogeninaktivierte Thrombozytenkonzentrate;22.537,55 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.22;8-800.hp;70 bis unter 78 pathogeninaktivierte Thrombozytenkonzentrate;24.774,11 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.23;8-800.hq;78 bis unter 86 pathogeninaktivierte Thrombozytenkonzentrate;27.526,78 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.24;8-800.hr;86 bis unter 94 pathogeninaktivierte Thrombozytenkonzentrate;30.279,46 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.25;8-800.hs;94 bis unter 102 pathogeninaktivierte Thrombozytenkonzentrate;33.032,14 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.26;8-800.ht;102 bis unter 110 pathogeninaktivierte Thrombozytenkonzentrate;35.784,82 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.27;8-800.hu;110 bis unter 118 pathogeninaktivierte Thrombozytenkonzentrate;38.537,50 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.28;8-800.hv;118 bis unter 126 pathogeninaktivierte Thrombozytenkonzentrate;41.290,18 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.29;8-800.hz;126 bis unter 134 pathogeninaktivierte Thrombozytenkonzentrate;44.042,85 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.30;8-800.n0;134 bis unter 146 pathogeninaktivierte Thrombozytenkonzentrate;47.139,62 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.31;8-800.n1;146 bis unter 158 pathogeninaktivierte Thrombozytenkonzentrate;51.268,64 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.32;8-800.n2;158 bis unter 170 pathogeninaktivierte Thrombozytenkonzentrate;55.397,65 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.33;8-800.n3;170 bis unter 182 pathogeninaktivierte Thrombozytenkonzentrate;59.526,67 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.34;8-800.n4;182 bis unter 194 pathogeninaktivierte Thrombozytenkonzentrate;63.655,69 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.35;8-800.n5;194 bis unter 210 pathogeninaktivierte Thrombozytenkonzentrate;68.128,79 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.36;8-800.n6;210 bis unter 226 pathogeninaktivierte Thrombozytenkonzentrate;73.634,15 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.37;8-800.n7;226 bis unter 242 pathogeninaktivierte Thrombozytenkonzentrate;79.139,50 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.38;8-800.n8;242 bis unter 258 pathogeninaktivierte Thrombozytenkonzentrate;84.644,86 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.39;8-800.n9;258 bis unter 274 pathogeninaktivierte Thrombozytenkonzentrate;90.150,22 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.40;8-800.na;274 bis unter 294 pathogeninaktivierte Thrombozytenkonzentrate;95.999,66 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.41;8-800.nb;294 bis unter 314 pathogeninaktivierte Thrombozytenkonzentrate;102.881,36 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.42;8-800.nc;314 bis unter 334 pathogeninaktivierte Thrombozytenkonzentrate;109.763,05 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.43;8-800.nd;334 bis unter 354 pathogeninaktivierte Thrombozytenkonzentrate;116.644,75 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.44;8-800.ne;354 bis unter 374 pathogeninaktivierte Thrombozytenkonzentrate;123.526,44 €
+ZE164;Gabe von pathogeninaktivierten Thrombozytenkonzentraten;ZE164.45;8-800.nf;374 oder mehr pathogeninaktivierte Thrombozytenkonzentrate;130.408,14 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;;;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Pathogeninaktiviertes Apherese-Thrombozytenkonzentrat;Transfusion von Vollblut, Erythrozytenkonzentrat und Thrombozytenkonzentrat: Pathogeninaktiviertes Apherese-Thrombozytenkonzentrat
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.016);8-800.d0;1 pathogeninaktiviertes Apherese-Thrombozytenkonzentrat;465,48 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.02;8-800.d1;2 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;930,95 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.03;8-800.d2;3 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;1.396,43 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.04;8-800.d3;4 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;1.861,90 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.05;8-800.d4;5 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;2.327,38 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.06;8-800.d5;6 bis unter 8 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;3.025,59 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.07;8-800.d6;8 bis unter 10 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;3.956,55 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.08;8-800.d7;10 bis unter 12 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;4.887,50 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.09;8-800.d8;12 bis unter 14 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;5.818,45 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.10;8-800.d9;14 bis unter 16 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;6.749,40 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.11;8-800.da;16 bis unter 18 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;7.680,36 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.12;8-800.db;18 bis unter 20 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;8.611,31 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.13;8-800.dc;20 bis unter 24 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;9.775,00 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.14;8-800.dd;24 bis unter 28 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;11.636,90 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.15;8-800.de;28 bis unter 32 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;13.498,81 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.16;8-800.df;32 bis unter 36 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;15.360,71 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.17;8-800.dg;36 bis unter 40 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;17.222,62 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.18;8-800.dh;40 bis unter 46 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;19.317,26 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.19;8-800.dj;46 bis unter 52 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;22.110,11 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.20;8-800.dk;52 bis unter 58 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;24.902,97 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.21;8-800.dm;58 bis unter 64 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;27.695,83 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.22;8-800.dn;64 bis unter 70 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;30.488,68 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.23;8-800.dp;70 bis unter 78 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;33.514,28 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.24;8-800.dq;78 bis unter 86 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;37.238,09 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.25;8-800.dr;86 bis unter 94 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;40.961,90 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.26;8-800.ds;94 bis unter 102 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;44.685,71 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.27;8-800.dt;102 bis unter 110 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;48.409,51 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.28;8-800.du;110 bis unter 118 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;52.133,32 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.29;8-800.dv;118 bis unter 126 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;55.857,13 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.30;8-800.dz;126 bis unter 134 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;59.580,94 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.31;8-800.j0;134 bis unter 146 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;63.770,23 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.32;8-800.j1;146 bis unter 158 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;69.355,94 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.33;8-800.j2;158 bis unter 170 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;74.941,65 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.34;8-800.j3;170 bis unter 182 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;80.527,37 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.35;8-800.j4;182 bis unter 194 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;86.113,08 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.36;8-800.j5;194 bis unter 210 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;92.164,27 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.37;8-800.j6;210 bis unter 226 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;99.611,89 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.38;8-800.j7;226 bis unter 242 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;107.059,50 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.39;8-800.j8;242 bis unter 258 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;114.507,12 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.40;8-800.j9;258 bis unter 274 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;121.954,74 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.41;8-800.ja;274 bis unter 294 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;129.867,83 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.42;8-800.jb;294 bis unter 314 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;139.177,35 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.43;8-800.jc;314 bis unter 334 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;148.486,88 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.44;8-800.jd;334 bis unter 354 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;157.796,40 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.45;8-800.je;354 bis unter 374 pathogeninaktivierte Apherese-Thrombozytenkonzentrate;167.105,92 €
+ZE165;Gabe von pathogeninaktivierten Apherese-Thrombozytenkonzentraten;ZE165.46;8-800.jf;374 oder mehr pathogeninaktivierte Apherese-Thrombozytenkonzentrate;176.415,44 €
+ZE168;Gabe von Ipilimumab, parenteral;;;Applikation von Medikamenten, Liste 6: Ipilimumab, parenteral;Applikation von Medikamenten, Liste 6: Ipilimumab, parenteral
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.016);6-006.j0;20 mg bis unter 30 mg;1.681,57 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.02;6-006.j1;30 mg bis unter 40 mg;2.402,24 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.03;6-006.j2;40 mg bis unter 50 mg;3.122,92 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.04;6-006.j3;50 mg bis unter 60 mg;3.843,59 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.05;6-006.j4;60 mg bis unter 70 mg;4.564,26 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.06;6-006.j5;70 mg bis unter 80 mg;5.284,94 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.07;6-006.j6;80 mg bis unter 90 mg;5.962,13 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.08;6-006.j7;90 mg bis unter 100 mg;6.726,28 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.09;6-006.j8;100 mg bis unter 120 mg;7.687,18 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.10;6-006.j9;120 mg bis unter 140 mg;9.128,52 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.11;6-006.ja;140 mg bis unter 160 mg;10.569,87 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.12;6-006.jb;160 mg bis unter 180 mg;11.963,89 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.13;6-006.jc;180 mg bis unter 200 mg;13.452,56 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.14;6-006.jd;200 mg bis unter 220 mg;14.842,98 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.15;6-006.je;220 mg bis unter 240 mg;16.335,25 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.16;6-006.jf;240 mg bis unter 260 mg;17.776,60 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.17;6-006.jg;260 mg bis unter 300 mg;19.698,40 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.18;6-006.jh;300 mg bis unter 340 mg;22.501,57 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.19;6-006.jj;340 mg bis unter 380 mg;25.463,78 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.20;6-006.jk;380 mg bis unter 420 mg;28.346,47 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.21;6-006.jm;420 mg bis unter 460 mg;31.229,16 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.22;6-006.jn;460 mg bis unter 540 mg;35.072,75 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.23;6-006.jp;540 mg bis unter 620 mg;40.838,14 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.24;6-006.jq;620 mg bis unter 700 mg;46.603,52 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.25;6-006.jr;700 mg bis unter 860 mg;54.290,70 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.26;6-006.js;860 mg bis unter 1.020 mg;65.821,47 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.27;6-006.jt;1.020 mg bis unter 1.180 mg;77.352,24 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.28;6-006.ju;1.180 mg bis unter 1.340 mg;88.883,00 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.29;6-006.jv;1.340 mg bis unter 1.500 mg;100.413,77 €
+ZE168;Gabe von Ipilimumab, parenteral;ZE168.30;6-006.jw;1.500 mg oder mehr;111.944,54 €
+ZE169;Adjustierbare Harnkontinenztherapien;;5-596.73;Andere Harninkontinenzoperationen: Adjustierbare Kontinenztherapie: Wechsel des Ballons;siehe Anlage 2
+ZE169;Adjustierbare Harnkontinenztherapien;;5-596.74;Andere Harninkontinenzoperationen: Adjustierbare Kontinenztherapie: Implantation unter den Harnblasenhals;siehe Anlage 2
+ZE169;Adjustierbare Harnkontinenztherapien;;5-596.75;Andere Harninkontinenzoperationen: Adjustierbare Kontinenztherapie: Implantation in die Region der bulbären Harnröhre;siehe Anlage 2
+ZE170;Suspensionsoperation bei Harninkontinenz des Mannes;;5-598.0;Suspensionsoperation [Zügeloperation] bei Harninkontinenz des Mannes: Mit alloplastischem Material;siehe Anlage 2

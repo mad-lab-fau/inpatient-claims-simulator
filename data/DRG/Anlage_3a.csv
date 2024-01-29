@@ -1,0 +1,56 @@
+﻿DRG;Partition;Bezeichnung;Pflegeerlös Bewertungsrelation/Tag
+Prä-MDC;;;
+A04A;O;Knochenmarktransplantation / Stammzelltransfusion, allogen, mit zweiter Knochenmarktransplantation / Stammzelltransfusion im selben Aufenthalt;1,0000
+A15A;O;Knochenmarktransplantation / Stammzelltransfusion, autogen, mit zweiter Knochenmarktransplantation / Stammzelltransfusion im selben Aufenthalt;1,0000
+A16A;O;Transplantation von Darm oder Pankreas;1,0000
+A16B;O;Injektion von Pankreasgewebe;1,0000
+A22Z;O;Korrektureingriff bei Doppelfehlbildung;1,0000
+A43Z;A;Frührehabilitation bei Wachkoma und Locked-in-Syndrom;1,5183
+MDC 01 Krankheiten und Störungen des Nervensystems;;;
+B11Z;O;Frührehabilitation mit bestimmter OR-Prozedur;1,4424
+B13Z;O;Epilepsiechirurgie mit invasivem präoperativen Video-EEG;1,0000
+B43Z;A;Frührehabilitation bei Krankheiten und Störungen des Nervensystems, mehr als 27 Tage;1,4369
+B46Z;A;Sozial- und neuropädiatrische und pädiatrisch-psychosomatische Therapie bei Krankheiten und Störungen des Nervensystems;1,3437
+B49Z;A;Multimodale Komplexbehandlung bei Morbus Parkinson;0,7689
+B61B;M;Bestimmte akute Erkrankungen und Verletzungen des Rückenmarks ohne komplexen Eingriff oder mehr als 13 Belegungstage oder nicht wegverlegt;1,5167
+B76A;M;Anfälle, mehr als ein Belegungstag, mit komplexer Diagnostik und Therapie;1,1735
+MDC 03 Krankheiten und Störungen des Ohres, der Nase, des Mundes und des Halses;;;
+D01A;O;Kochleaimplantation, bilateral;1,0607
+D23Z;O;Implantation eines aktiven mechanischen Hörimplantates;0,7320
+MDC 04 Krankheiten und Störungen der Atmungsorgane;;;
+E37Z;O;Längerer stationärer Aufenthalt vor Transplantation bei hoher Dringlichkeitsstufe bei Krankheiten und Störungen der Atmungsorgane;1,0000
+E41Z;A;Frührehabilitation bei Krankheiten und Störungen der Atmungsorgane;0,8899
+E76A;M;Tuberkulose, mehr als 14 Belegungstage;0,6991
+MDC 05 Krankheiten und Störungen des Kreislaufsystems;;;
+F29Z;O;Frührehabilitation bei Krankheiten und Störungen des Kreislaufsystems, mit bestimmter OR-Prozedur, außer kardiothorakale Eingriffe;1,0000
+F37Z;O;Längerer stationärer Aufenthalt vor Transplantation bei hoher Dringlichkeitsstufe bei Krankheiten und Störungen des Kreislaufsystems;0,6439
+F45Z;A;Frührehabilitation bei Krankheiten und Störungen des Kreislaufsystems;0,6991
+F96Z;O;Stammzelltransfusion bei Krankheiten und Störungen des Kreislaufsystems;1,0000
+MDC 06 Krankheiten und Störungen der Verdauungsorgane;;;
+G51Z;A;Frührehabilitation bei Krankheiten und Störungen der Verdauungsorgane;1,0138
+MDC 07 Krankheiten und Störungen an hepatobiliärem System und Pankreas;;;
+H37Z;O;Längerer stationärer Aufenthalt vor Transplantation bei hoher Dringlichkeitsstufe bei Krankheiten und Störungen an hepatobiliärem System und Pankreas;1,0000
+MDC 08 Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe;;;
+I40Z;A;Frührehabilitation bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe;0,7139
+I96Z;O;Frührehabilitation mit bestimmter OR-Prozedur bei Krankheiten und Störungen an Muskel-Skelett-System und Bindegewebe, mehr als 20 Tage;0,9451
+MDC 10 Endokrine, Ernährungs- und Stoffwechselkrankheiten;;;
+K01Z;O;Verschiedene Eingriffe bei Diabetes mellitus mit Komplikationen, mit Frührehabilitation oder geriatrischer frührehabilitativer Komplexbehandlung;0,8997
+K43Z;A;Frührehabilitation bei endokrinen, Ernährungs- und Stoffwechselkrankheiten;0,8218
+MDC 19 Psychische Krankheiten und Störungen;;;
+U01Z;O;Genitalorganumwandelnde Operation;0,7208
+U41Z;A;Sozial- und neuropädiatrische und pädiatrisch-psychosomatische Therapie bei psychischen Krankheiten und Störungen;1,0001
+U42A;A;Multimodale Schmerztherapie bei psychischen Krankheiten und Störungen, Alter < 19 Jahre;1,0000
+U43Z;A;Psychosomatische Therapie, Alter < 18 Jahre;0,9510
+MDC 21A Polytrauma;;;
+W01A;O;Polytrauma mit Beatmung > 72 Stunden oder komplexen Eingriffen oder intensivmedizinische Komplexbehandlung > 392 / 368 / 552 Aufwandspunkte, mit Frührehabilitation;1,7688
+W05Z;O;Frührehabilitation bei Polytrauma mit OR-Prozedur;0,9315
+W40Z;A;Frührehabilitation bei Polytrauma;1,2102
+MDC 22 Verbrennungen;;;
+Y01Z;O;Operative Eingriffe bei schweren Verbrennungen oder Beatmung > 95 Stunden bei Verbrennungen oder intensivmedizinische Komplexbehandlung > 1176 / 1104 / 1104 Aufwandspunkte bei Verbrennungen;4,4837
+Y61Z;M;Schwere Verbrennungen;1,0000
+MDC 23 Faktoren, die den Gesundheitszustand beeinflussen, und andere Inanspruchnahme des Gesundheitswesens;;;
+Z02Z;O;Leberspende (Lebendspende);1,0336
+Z04Z;O;Lungenspende (Lebendspende);1,0000
+Z41Z;A;Knochenmarkentnahme bei Eigenspender;1,0000
+Z42Z;A;Stammzellentnahme bei Fremdspender;0,9992
+Z43Z;A;Knochenmarkentnahme bei Fremdspender;1,6157

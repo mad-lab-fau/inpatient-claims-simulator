@@ -1,0 +1,321 @@
+﻿ZE;Bezeichnung;OPS-Kode;OPS-Text
+ZE2021-01;Beckenimplantate;5-785.2d;Implantation von alloplastischem Knochenersatz: Keramischer Knochenersatz: Becken
+ZE2021-01;Beckenimplantate;5-785.3d;Implantation von alloplastischem Knochenersatz: Keramischer Knochenersatz, resorbierbar: Becken
+ZE2021-01;Beckenimplantate;5-785.4d;Implantation von alloplastischem Knochenersatz: Metallischer Knochenersatz: Becken
+ZE2021-01;Beckenimplantate;5-785.5d;Implantation von alloplastischem Knochenersatz: Keramischer Knochenersatz, resorbierbar mit Antibiotikumzusatz: Becken
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.20;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Extrakorporale Pumpe (z.B. Kreiselpumpe oder Zentrifugalpumpe), univentrikulär: Implantation, mit Sternotomie
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.22;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Extrakorporale Pumpe (z.B. Kreiselpumpe oder Zentrifugalpumpe), univentrikulär: Isolierter Pumpenwechsel, nicht offen chirurgisch
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.23;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Extrakorporale Pumpe (z.B. Kreiselpumpe oder Zentrifugalpumpe), univentrikulär: Implantation, transapikal
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.30;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Extrakorporale Pumpe (z.B. Kreiselpumpe oder Zentrifugalpumpe), biventrikulär: Implantation
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.33;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Extrakorporale Pumpe (z.B. Kreiselpumpe oder Zentrifugalpumpe), biventrikulär: Isolierter Pumpenwechsel einer Pumpe, nicht offen chirurgisch
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.34;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Extrakorporale Pumpe (z.B. Kreiselpumpe oder Zentrifugalpumpe), biventrikulär: Isolierter Pumpenwechsel beider Pumpen, nicht offen chirurgisch
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.40;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Intrakorporale Pumpe, univentrikulär: Implantation
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.50;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Intrakorporale Pumpe, biventrikulär: Implantation
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.60;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Kunstherz (totaler Herzersatz): Implantation
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.70;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Parakorporale Pumpe, univentrikulär: Implantation
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.72;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Parakorporale Pumpe, univentrikulär: Isolierter Pumpenwechsel, nicht offen chirurgisch
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.80;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Parakorporale Pumpe, biventrikulär: Implantation
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.83;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Parakorporale Pumpe, biventrikulär: Isolierter Pumpenwechsel einer Pumpe, nicht offen chirurgisch
+ZE2021-02;Links- und rechtsventrikuläre Herzassistenzsysteme („Kunstherz“);5-376.84;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Parakorporale Pumpe, biventrikulär: Isolierter Pumpenwechsel beider Pumpen, nicht offen chirurgisch
+ZE2021-03;ECMO und PECLA;8-852.0*;Extrakorporaler Gasaustausch ohne und mit Herzunterstützung und Prä-ECMO-Therapie: Veno-venöse extrakorporale Membranoxygenation (ECMO) ohne Herzunterstützung
+ZE2021-03;ECMO und PECLA;8-852.2*;Extrakorporaler Gasaustausch ohne und mit Herzunterstützung und Prä-ECMO-Therapie: Extrakorporale Lungenunterstützung, pumpenlos (PECLA)
+ZE2021-03;ECMO und PECLA;8-852.3*;Extrakorporaler Gasaustausch ohne und mit Herzunterstützung und Prä-ECMO-Therapie: Anwendung einer minimalisierten Herz-Lungen-Maschine
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.65;Kranioplastik: Rekonstruktion des Gesichtsschädels ohne Beteiligung des Hirnschädels bis zu 2 Regionen mit computerassistiert vorgefertigtem Implantat [CAD-Implantat]
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.66;Kranioplastik: Rekonstruktion des Gesichtsschädels ohne Beteiligung des Hirnschädels ab 3 Regionen mit computerassistiert vorgefertigtem Implantat [CAD-Implantat]
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.67;Kranioplastik: Rekonstruktion des Hirnschädels mit Beteiligung von Orbita, Temporalregion oder frontalem Sinus (bis zu 2 Regionen) mit computerassistiert vorgefertigtem Implantat [CAD-Implantat]
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.68;Kranioplastik: Rekonstruktion des Hirnschädels mit Beteiligung multipler Regionen des Gesichtsschädels (ab 3 Regionen) mit computerassistiert vorgefertigtem Implantat [CAD-Implantat]
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.6b;Kranioplastik: Rekonstruktion des Gesichtsschädels ohne Beteiligung des Hirnschädels bis zu 2 Regionen mit computerassistiert vorgefertigtem Implantat, mit nicht resorbierbarem, mikroporösem Material mit fibrovaskulärer Integration
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.6c;Kranioplastik: Rekonstruktion des Gesichtsschädels ohne Beteiligung des Hirnschädels ab 3 Regionen mit computerassistiert vorgefertigtem Implantat, mit nicht resorbierbarem, mikroporösem Material mit fibrovaskulärer Integration
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.6d;Kranioplastik: Rekonstruktion des Hirnschädels mit Beteiligung von Orbita, Temporalregion oder frontalem Sinus (bis zu 2 Regionen) mit computerassistiert vorgefertigtem Implantat, mit nicht resorbierbarem, mikroporösem Material mit fibrovaskulärer Integration
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.6e;Kranioplastik: Rekonstruktion des Hirnschädels mit Beteiligung multipler Regionen des Gesichtsschädels (ab 3 Regionen) mit computerassistiert vorgefertigtem Implantat, mit nicht resorbierbarem, mikroporösem Material mit fibrovaskulärer Integration
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.71;Kranioplastik: Rekonstruktion des Hirnschädels ohne Beteiligung des Gesichtsschädels, mit alloplastischem Material: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], einfacher Defekt
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.72;Kranioplastik: Rekonstruktion des Hirnschädels ohne Beteiligung des Gesichtsschädels, mit alloplastischem Material: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], großer oder komplexer Defekt
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.74;Kranioplastik: Rekonstruktion des Hirnschädels ohne Beteiligung des Gesichtsschädels, mit alloplastischem Material: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], einfacher Defekt, mit nicht resorbierbarem, mikroporösem Material mit fibrovaskulärer Integration
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-020.75;Kranioplastik: Rekonstruktion des Hirnschädels ohne Beteiligung des Gesichtsschädels, mit alloplastischem Material: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], großer oder komplexer Defekt, mit nicht resorbierbarem, mikroporösem Material mit fibrovaskulärer Integration
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-774.71;Plastische Rekonstruktion und Augmentation der Maxilla: Durch alloplastische Implantate: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], einfacher Defekt
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-774.72;Plastische Rekonstruktion und Augmentation der Maxilla: Durch alloplastische Implantate: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], großer oder komplexer Defekt
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-775.71;Plastische Rekonstruktion und Augmentation der Mandibula: Durch alloplastische Implantate: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], einfacher Defekt
+ZE2021-04;Individuell nach CAD gefertigte Rekonstruktionsimplantate im Gesichts- und Schädelbereich;5-775.72;Plastische Rekonstruktion und Augmentation der Mandibula: Durch alloplastische Implantate: Mit computerassistiert vorgefertigtem Implantat [CAD-Implantat], großer oder komplexer Defekt
+ZE2021-05;Distraktion am Gesichtsschädel;5-776.6;Osteotomie zur Verlagerung des Untergesichtes: Verlagerung des Unterkiefers durch Distraktion mit Kontinuitätsdurchtrennung im aufsteigenden Mandibulaast
+ZE2021-05;Distraktion am Gesichtsschädel;5-776.7;Osteotomie zur Verlagerung des Untergesichtes: Verlagerung der Mandibula durch Distraktion nach Osteotomie im horizontalen Mandibulaast
+ZE2021-05;Distraktion am Gesichtsschädel;5-776.9;Osteotomie zur Verlagerung des Untergesichtes: Verlagerung des Alveolarfortsatzes durch horizontale Distraktion nach Osteotomie
+ZE2021-05;Distraktion am Gesichtsschädel;5-777.*1;Osteotomie zur Verlagerung des Mittelgesichtes: Mit Distraktion
+ZE2021-07;Andere implantierbare Medikamentenpumpen;5-028.1x;Funktionelle Eingriffe an Schädel, Gehirn und Hirnhäuten: Implantation oder Wechsel einer Medikamentenpumpe zur intraventrikulären Infusion: Sonstige
+ZE2021-07;Andere implantierbare Medikamentenpumpen;5-038.4x;Operationen am spinalen Liquorsystem: Implantation oder Wechsel einer Medikamentenpumpe zur intrathekalen und/oder epiduralen Infusion: Sonstige
+ZE2021-08,;Sonstige Dialyse;8-853.x;Hämofiltration: Sonstige
+ZE2021-08,;Sonstige Dialyse;8-853.y;Hämofiltration: N.n.bez.
+ZE2021-08,;Sonstige Dialyse;8-854.x;Hämodialyse: Sonstige
+ZE2021-08,;Sonstige Dialyse;8-854.y;Hämodialyse: N.n.bez.
+ZE2021-08,;Sonstige Dialyse;8-855.x;Hämodiafiltration: Sonstige
+ZE2021-08,;Sonstige Dialyse;8-855.y;Hämodiafiltration: N.n.bez.
+ZE2021-08,;Sonstige Dialyse;8-857.x;Peritonealdialyse: Sonstige
+ZE2021-08,;Sonstige Dialyse;8-857.y;Peritonealdialyse: N.n.bez.
+ZE2021-09;Hämoperfusion;8-821.2;Immunadsorption und verwandte Verfahren: Adsorption zur Entfernung hydrophober Substanzen (niedrig- und/oder mittelmolekular)
+ZE2021-09;Hämoperfusion;8-856;Hämoperfusion
+ZE2021-10;Leberersatztherapie;8-858;Extrakorporale Leberersatztherapie [Leberdialyse]
+ZE2021-13;Immunadsorption;8-821.0;Immunadsorption mit nicht regenerierbarer Säule zur Entfernung von Immunglobulinen und/oder Immunkomplexen
+ZE2021-13;Immunadsorption;8-821.10;Immunadsorption mit regenerierbarer Säule zur Entfernung von Immunglobulinen und/oder Immunkomplexen: Ersteinsatz
+ZE2021-13;Immunadsorption;8-821.11;Immunadsorption mit regenerierbarer Säule zur Entfernung von Immunglobulinen und/oder Immunkomplexen: Weitere Anwendung
+ZE2021-15;Zellapherese;8-823;Zellapherese
+ZE2021-15;Zellapherese;8-825.*;Spezielle Zellaphereseverfahren
+ZE2021-16;Isolierte Extremitätenperfusion;8-859;Isolierte Extremitätenperfusion
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-125.5;Hornhaut-Retransplantation während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-335.3*;Lungentransplantation: Retransplantation während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-375.3;Herz-Retransplantation während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-375.4;Herz-Lungen-Retransplantation (En-bloc) während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-467.9*;Dünndarm-Retransplantation während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-504.3;Lebertransplantation: Retransplantation, komplett (gesamtes Organ) während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-504.4;Lebertransplantation: Retransplantation, partiell (Split-Leber) während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-504.5;Lebertransplantation: Retransplantation, auxiliär (linker Leberlappen zusätzlich zum vorhandenen Organ) während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-528.3;Retransplantation von Pankreasgewebe während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-528.4;Retransplantation eines Pankreassegmentes während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-528.5;Retransplantation des Pankreas (gesamtes Organ) während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-555.6;Nierentransplantation: Retransplantation, allogen, Lebendspender während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-555.7;Nierentransplantation: Retransplantation, allogen, Leichenniere während desselben stationären Aufenthaltes
+ZE2021-17;Retransplantation von Organen während desselben stationären Aufenthaltes;5-555.8;Nierentransplantation: Retransplantation, En-bloc-Transplantat während desselben stationären Aufenthaltes
+ZE2021-18;Zwerchfellschrittmacher;5-347.6*;Operationen am Zwerchfell: Implantation oder Wechsel eines Zwerchfellschrittmachers
+ZE2021-22;IABP;5-376.00;Implantation und Entfernung eines herzunterstützenden Systems, offen chirurgisch: Intraaortale Ballonpumpe: Implantation
+ZE2021-22;IABP;8-839.0;Andere therapeutische Katheterisierung und Kanüleneinlage in Herz und Blutgefäße: Perkutane Einführung einer intraaortalen Ballonpumpe
+ZE2021-24;Andere Penisprothesen;5-649.50;Andere Operationen am Penis: Implantation einer Penisprothese: Semirigide Prothese
+ZE2021-24;Andere Penisprothesen;5-649.5x;Andere Operationen am Penis: Implantation einer Penisprothese: Sonstige
+ZE2021-24;Andere Penisprothesen;5-649.a0;Andere Operationen am Penis: Wechsel einer semirigiden Penisprothese: In eine semirigide Prothese
+ZE2021-24;Andere Penisprothesen;5-649.ax;Andere Operationen am Penis: Wechsel einer semirigiden Penisprothese: Sonstige
+ZE2021-24;Andere Penisprothesen;5-649.b0;Andere Operationen am Penis: Wechsel einer hydraulischen Penisprothese: Vollständig, in eine semirigide Prothese
+ZE2021-24;Andere Penisprothesen;5-649.b2;Andere Operationen am Penis: Wechsel einer hydraulischen Penisprothese: Isolierter Pumpenwechsel
+ZE2021-24;Andere Penisprothesen;5-649.b3;Andere Operationen am Penis: Wechsel einer hydraulischen Penisprothese: Isolierter Reservoirwechsel [Ballon]
+ZE2021-24;Andere Penisprothesen;5-649.b4;Andere Operationen am Penis: Wechsel einer hydraulischen Penisprothese: Isolierter Wechsel des Schwellkörperimplantates [Zylinder]
+ZE2021-24;Andere Penisprothesen;5-649.bx;Andere Operationen am Penis: Wechsel einer hydraulischen Penisprothese: Sonstige
+ZE2021-25;Modulare Endoprothesen;5-829.k*;Andere gelenkplastische Eingriffe: Implantation einer modularen Endoprothese oder (Teil-) Wechsel in eine modulare Endoprothese bei knöcherner Defektsituation und ggf. Knochen(teil)ersatz
+ZE2021-25;Modulare Endoprothesen;5-829.m;Andere gelenkplastische Eingriffe: Implantation von oder (Teil-) Wechsel in ein patientenindividuell angefertigtes Implantat bei knöcherner Defektsituation oder angeborener oder erworbener Deformität
+ZE2021-26;Anthroposophisch-medizinische Komplexbehandlung;8-975.3;Anthroposophisch-medizinische Komplexbehandlung
+ZE2021-33,;Gabe von Sargramostim, parenteral;6-001.4*;Applikation von Medikamenten, Liste 1: Sargramostim, parenteral
+ZE2021-34;Gabe von Granulozytenkonzentraten;8-802.6*;Transfusion von Leukozyten: Granulozyten
+ZE2021-35;Fremdbezug von hämatopoetischen Stammzellen;;Fremdbezug von hämatopoetischen Stammzellen über Spenderdateien bei nicht-verwandten Spendern oder Bezug von hämatopoetischen Stammzellen von außerhalb Deutschlands bei Familienspendern
+ZE2021-36;Versorgung von Schwerstbehinderten;;Zusatzentgelt für Krankenhäuser, bei denen insbesondere wegen einer räumlichen Nähe zu entsprechenden Einrichtungen oder einer Spezialisierung eine Häufung von schwerstbehinderten Patienten auftritt. Vergütung des mit den DRG-Fallpauschalen nicht abgedeckten, wesentlichen zusätzlichen Aufwands, insbesondere im Pflegedienst
+ZE2021-40;Naturheilkundliche Komplexbehandlung;8-975.23;Naturheilkundliche Komplexbehandlung: Mindestens 14 bis höchstens 20 Behandlungstage und weniger als 2.520 Behandlungsminuten oder mindestens 10 bis höchstens 13 Behandlungstage und mindestens 1.680 Behandlungsminuten
+ZE2021-40;Naturheilkundliche Komplexbehandlung;8-975.24;Naturheilkundliche Komplexbehandlung: Mindestens 21 Behandlungstage oder mindestens 14 Behandlungstage und mindestens 2.520 Behandlungsminuten
+ZE2021-41,;Multimodal-nichtoperative Komplexbehandlung des Bewegungssystems;8-977;Multimodal-nichtoperative Komplexbehandlung des Bewegungssystems
+ZE2021-44;Stammzellboost nach erfolgter Transplantation von hämatopoetischen Stammzellen, nach In-vitro-Aufbereitung;8-805.62;Transfusion von peripher gewonnenen hämatopoetischen Stammzellen: Stammzellboost nach erfolgter Transplantation von hämatopoetischen Stammzellen: Nach In-vitro-Aufbereitung
+ZE2021-45;Komplexe Diagnostik bei hämatologischen und onkologischen Erkrankungen bei Kindern und Jugendlichen;1-940;Komplexe Diagnostik bei hämatologischen und onkologischen Erkrankungen bei Kindern und Jugendlichen
+ZE2021-46,;Gabe von Anti-Human-T-Lymphozyten-Immunglobulin, parenteral;8-812.3;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Anti-Human-T-Lymphozyten-Immunglobulin vom Kaninchen, parenteral
+ZE2021-46,;Gabe von Anti-Human-T-Lymphozyten-Immunglobulin, parenteral;8-812.4;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Anti-Human-T-Lymphozyten-Immunglobulin vom Pferd, parenteral
+ZE2021-49;Hypertherme intraperitoneale Chemotherapie (HIPEC) in Kombination mit Peritonektomie und ggf. mit Multiviszeralresektion oder hypertherme intrathorakale Chemotherapie (HITOC) in Kombination mit Pleurektomie und ggf. mit Tumorreduktion;;
+ZE2021-50;Implantation einer (Hybrid)-Prothese an der Aorta;5-384.8;Resektion und Ersatz (Interposition) an der Aorta: Aorta ascendens, Aortenbogen oder Aorta descendens mit Hybridprothese
+ZE2021-50;Implantation einer (Hybrid)-Prothese an der Aorta;5-38a.a;Endovaskuläre Implantation von Stent-Prothesen: Bei Hybridverfahren an Aorta ascendens, Aortenbogen oder Aorta thoracica
+ZE2021-50;Implantation einer (Hybrid)-Prothese an der Aorta;5-38a.b;Endovaskuläre Implantation von Stent-Prothesen: Bei Hybridverfahren an der Aorta thoracoabdominalis
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.j0;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, offen chirurgisch, eine Prothese ohne Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.j1;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, endoskopisch, eine Prothese ohne Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.j3;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, offen chirurgisch, zwei Prothesen ohne Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.j4;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, endoskopisch, zwei Prothesen ohne Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.j9;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, offen chirurgisch, mehr als zwei Prothesen ohne Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.ja;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, endoskopisch, mehr als zwei Prothesen ohne Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.jb;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, offen chirurgisch, eine Prothese mit Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.jc;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, endoskopisch, eine Prothese mit Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.jd;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, offen chirurgisch, zwei Prothesen, eine davon mit Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.je;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, endoskopisch, zwei Prothesen, eine davon mit Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.jf;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, offen chirurgisch, mehr als zwei Prothesen, eine davon mit Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-429.jg;Andere Operationen am Ösophagus: Maßnahmen bei selbstexpandierender Prothese: Einlegen oder Wechsel, endoskopisch, mehr als zwei Prothesen, eine davon mit Antirefluxventil
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-449.h*;Andere Operationen am Magen: Einlegen oder Wechsel einer selbstexpandierenden Prothese
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-469.k*;Andere Operationen am Darm: Einlegen oder Wechsel einer selbstexpandierenden Prothese
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-489.g0;Andere Operation am Rektum: Einlegen oder Wechsel einer Prothese, endoskopisch: Selbstexpandierend
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-513.m*;Endoskopische Operationen an den Gallengängen: Einlegen oder Wechsel von selbstexpandierenden ungecoverten Stents
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-513.n*;Endoskopische Operationen an den Gallengängen: Einlegen oder Wechsel von selbstexpandierenden gecoverten Stent-Prothesen
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-517.**;Einlegen oder Wechseln von selbstexpandierenden Stents und Stent-Prothesen in die Gallengänge
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-526.e0;Endoskopische Operationen am Pankreasgang: Einlegen einer Prothese: Selbstexpandierend
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-526.f0;Endoskopische Operationen am Pankreasgang: Wechsel einer Prothese: Selbstexpandierend
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-529.g*;Andere Operationen am Pankreas und am Pankreasgang: Einlegen einer selbstexpandierenden Prothese
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-529.j*;Andere Operationen am Pankreas und am Pankreasgang: Wechsel einer selbstexpandierenden Prothese
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-529.n4;Andere Operationen am Pankreas und am Pankreasgang: Transgastrale Drainage einer Pankreaszyste: Endoskopisch mit Einlegen eines selbstexpandierenden Stents
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-529.p2;Andere Operationen am Pankreas und am Pankreasgang: Endoskopische transgastrale Entfernung von Pankreasnekrosen: Mit Einlegen eines selbstexpandierenden Stents
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-529.r3;Andere Operationen am Pankreas und am Pankreasgang: Transduodenale Drainage einer Pankreaszyste: Endoskopisch mit Einlegen eines selbstexpandierenden Stents
+ZE2021-54;Selbstexpandierende Prothesen am Gastrointestinaltrakt;5-529.s2;Andere Operationen am Pankreas und am Pankreasgang: Endoskopische transduodenale Entfernung von Pankreasnekrosen: Mit Einlegen eines selbstexpandierenden Stents
+ZE2021-56;Gabe von Bosentan, oral;6-002.f*;Applikation von Medikamenten, Liste 2: Bosentan, oral
+ZE2021-57;Gabe von Jod-131-MIBG (Metajodobenzylguanidin), parenteral;6-002.g*;Applikation von Medikamenten, Liste 2: Jod-131-Metajodobenzylguanidin (MIBG), parenteral
+ZE2021-58;Gabe von Alpha-1-Proteinaseninhibitor human, parenteral;8-812.0*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Alpha-1-Proteinaseninhibitor human, parenteral
+ZE2021-59;Gabe von Interferon alfa-2a (nicht pegylierte Form), parenteral;8-812.1*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Interferon alfa-2a, parenteral
+ZE2021-60;Gabe von Interferon alfa-2b (nicht pegylierte Form), parenteral;8-812.2*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Interferon alfa-2b, parenteral
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-028.92;Implantation oder Wechsel eines Neurostimulators zur Hirnstimulation mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-028.a2;Funktionelle Eingriffe an Schädel, Gehirn und Hirnhäuten: Wechsel eines Neurostimulators zur Hirnstimulation ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-028.c2;Funktionelle Eingriffe an Schädel, Gehirn und Hirnhäuten: Implantation eines Neurostimulators zur Hirnstimulation ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-039.e2;Implantation oder Wechsel eines Neurostimulators zur epiduralen Rückenmarkstimulation mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-039.f2;Wechsel eines Neurostimulators zur epiduralen Rückenmarkstimulation ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-039.n2;Implantation eines Neurostimulators zur epiduralen Rückenmarkstimulation ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-059.cc;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-059.cd;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit elektromagnetischer Energieübertragung, induktiv
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-059.dc;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-059.dd;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit elektromagnetischer Energieübertragung, induktiv
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-059.g3;Implantation eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit wiederaufladbarem Akkumulator
+ZE2021-61;Neurostimulatoren zur Hirn- oder Rückenmarkstimulation oder zur Stimulation des peripheren Nervensystems, Mehrkanalstimulator, wiederaufladbar;5-059.g4;Implantation eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Implantation einer Neurostimulationselektrode: Mehrkanalstimulator, vollimplantierbar, mit elektromagnetischer Energieübertragung, induktiv
+ZE2021-62;Mikroaxial-Blutpumpe;8-839.46;Andere therapeutische Katheterisierung und Kanüleneinlage in Herz und Blutgefäße: Implantation oder Entfernung einer transvasal platzierten axialen Pumpe zur Kreislaufunterstützung: Implantation einer linksventrikulären axialen Pumpe
+ZE2021-62;Mikroaxial-Blutpumpe;8-839.47;Andere therapeutische Katheterisierung und Kanüleneinlage in Herz und Blutgefäße: Implantation oder Entfernung einer transvasal platzierten axialen Pumpe zur Kreislaufunterstützung: Implantation einer rechtsventrikulären axialen Pumpe
+ZE2021-63;Gabe von Dibotermin alfa, Implantation am Knochen;6-003.4*;Applikation von Medikamenten, Liste 3: Dibotermin alfa, Implantation am Knochen
+ZE2021-64,;Gabe von Eptotermin alfa, Implantation am Knochen;6-003.5*;Applikation von Medikamenten, Liste 3: Eptotermin alfa, Implantation am Knochen
+ZE2021-65;Selektive intravaskuläre Radionuklidtherapie [SIRT] mit Yttrium-90- oder Rhenium-188- oder Holmium-166-markierten Mikrosphären;8-530.a5;Therapie mit offenen Radionukliden: Intraarterielle Therapie mit offenen Radionukliden: Selektive intravaskuläre Radionuklidtherapie [SIRT] mit Yttrium-90-markierten Mikrosphären
+ZE2021-65;Selektive intravaskuläre Radionuklidtherapie [SIRT] mit Yttrium-90- oder Rhenium-188- oder Holmium-166-markierten Mikrosphären;8-530.a6;Therapie mit offenen Radionukliden: Intraarterielle Therapie mit offenen Radionukliden: Selektive intravaskuläre Radionuklidtherapie [SIRT] mit Rhenium-188-markierten Mikrosphären
+ZE2021-65;Selektive intravaskuläre Radionuklidtherapie [SIRT] mit Yttrium-90- oder Rhenium-188- oder Holmium-166-markierten Mikrosphären;8-530.a8;Therapie mit offenen Radionukliden: Intraarterielle Therapie mit offenen Radionukliden: Selektive intravaskuläre Radionuklidtherapie [SIRT] mit Holmium-166-markierten Mikrosphären
+ZE2021-66;Enzymersatztherapie bei lysosomalen Speicherkrankheiten;6-003.7;Applikation von Medikamenten, Liste 3: Enzymersatztherapie bei lysosomalen Speicherkrankheiten
+ZE2021-67;Implantation einer Stent-Prothese an der Aorta, perkutan-transluminal;8-840.*4;(Perkutan-)transluminale Implantation von nicht medikamentefreisetzenden Stents: Aorta
+ZE2021-67;Implantation einer Stent-Prothese an der Aorta, perkutan-transluminal;8-841.*4;(Perkutan-)transluminale Implantation von medikamentefreisetzenden Stents: Aorta
+ZE2021-67;Implantation einer Stent-Prothese an der Aorta, perkutan-transluminal;8-843.*4;(Perkutan-)transluminale Implantation von bioresorbierbaren Stents: Aorta
+ZE2021-67;Implantation einer Stent-Prothese an der Aorta, perkutan-transluminal;8-849.*4;(Perkutan-)transluminale Implantation von anderen ungecoverten großlumigen Stents: Aorta
+ZE2021-67;Implantation einer Stent-Prothese an der Aorta, perkutan-transluminal;8-84a.*4;(Perkutan-)transluminale Implantation von anderen gecoverten großlumigen Stents: Aorta
+ZE2021-67;Implantation einer Stent-Prothese an der Aorta, perkutan-transluminal;8-84b.*4;(Perkutan-)transluminale Implantation von Stents zur Strömungslaminierung bei Aneurysmen: Aorta
+ZE2021-69;Gabe von Hämin, parenteral;6-004.1*;Applikation von Medikamenten, Liste 4: Hämin, parenteral
+ZE2021-70;Radioimmuntherapie mit 90Y-Ibritumomab-Tiuxetan, parenteral;6-003.6;Applikation von Medikamenten, Liste 3: Ibritumomab Tiuxetan (90Y), parenteral
+ZE2021-71;Radiorezeptortherapie mit DOTA-konjugierten Somatostatinanaloga;8-530.61;Therapie mit offenen Radionukliden: Intravenöse Therapie mit radioaktiven rezeptorgerichteten Substanzen: Radiorezeptortherapie mit Chelator-konjugierten Somatostatinanaloga aus patientenindividueller Eigenherstellung
+ZE2021-71;Radiorezeptortherapie mit DOTA-konjugierten Somatostatinanaloga;8-530.62;Therapie mit offenen Radionukliden: Intravenöse Therapie mit radioaktiven rezeptorgerichteten Substanzen: Radiorezeptortherapie mit Chelator-konjugierten Somatostatinanaloga aus nicht patientenindividueller Herstellung
+ZE2021-71;Radiorezeptortherapie mit DOTA-konjugierten Somatostatinanaloga;8-530.a0;Therapie mit offenen Radionukliden: Intraarterielle Therapie mit offenen Radionukliden: Intraarterielle Radiorezeptortherapie mit DOTA-konjugierten Somatostatinanaloga
+ZE2021-72;Distraktionsmarknagel, motorisiert;5-786.j1;Osteosyntheseverfahren: Durch internes Verlängerungs- oder Knochentransportsystem: Motorisiert
+ZE2021-72;Distraktionsmarknagel, motorisiert;5-78a.j1;Revision von Osteosynthesematerial mit Reosteosynthese: Durch internes Verlängerungs- oder Knochentransportsystem: Motorisiert
+ZE2021-74;Gabe von Sunitinib, oral;6-003.a*;Applikation von Medikamenten, Liste 3: Sunitinib, oral
+ZE2021-75;Gabe von Sorafenib, oral;6-003.b*;Applikation von Medikamenten, Liste 3: Sorafenib, oral
+ZE2021-77;Gabe von Lenalidomid, oral;6-003.g*;Applikation von Medikamenten, Liste 3: Lenalidomid, oral
+ZE2021-79;Gabe von Nelarabin, parenteral;6-003.e*;Applikation von Medikamenten, Liste 3: Nelarabin, parenteral
+ZE2021-80,;Gabe von Amphotericin-B-Lipidkomplex, parenteral;6-003.1*;Applikation von Medikamenten, Liste 3: Amphotericin-B-Lipidkomplex, parenteral
+ZE2021-82,;Peritonealdialyse, kontinuierlich, maschinell unterstützt (APD);8-857.2*;Peritonealdialyse: Kontinuierlich, maschinell unterstützt (APD), mit Zusatzgeräten
+ZE2021-84;Gabe von Ambrisentan, oral;6-004.2*;Applikation von Medikamenten, Liste 4: Ambrisentan, oral
+ZE2021-85;Gabe von Temsirolimus, parenteral;6-004.e*;Applikation von Medikamenten, Liste 4: Temsirolimus, parenteral
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-029.4;Andere Operationen an Schädel, Gehirn und Hirnhäuten: Implantation oder Wechsel einer Neuroprothese
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-039.g;Andere Operationen an Rückenmark und Rückenmarkstrukturen: Implantation oder Wechsel eines Neurostimulators zur Vorderwurzelstimulation mit Implantation oder Wechsel einer subduralen Elektrode
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-039.h;Andere Operationen an Rückenmark und Rückenmarkstrukturen: Wechsel eines Neurostimulators zur Vorderwurzelstimulation ohne Wechsel einer subduralen Elektrode
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-039.p;Andere Operationen an Rückenmark und Rückenmarkstrukturen: Implantation eines Neurostimulators zur Vorderwurzelstimulation ohne Implantation einer subduralen Elektrode
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.5*;Andere Operationen an Nerven und Ganglien: Implantation einer peripheren Neuroprothese
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.c4;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: Kardiales Vagusnervstimulationssystem
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.c6;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: System zur Barorezeptoraktivierung
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.cb;Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: System zur Phrenikusnerv-Stimulation
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.d4;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: Kardiales Vagusnervstimulationssystem
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.d6;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: System zur Barorezeptoraktivierung
+ZE2021-86;Andere Neurostimulatoren und Neuroprothesen;5-059.db;Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: System zur Phrenikusnerv-Stimulation
+ZE2021-88;Komplexe neuropädiatrische Diagnostik mit weiteren Maßnahmen;1-942.1;Komplexe neuropädiatrische Diagnostik: Mit neurometabolischer Labordiagnostik und/oder infektiologischer/autoimmunentzündlicher Labordiagnostik
+ZE2021-88;Komplexe neuropädiatrische Diagnostik mit weiteren Maßnahmen;1-942.2;Komplexe neuropädiatrische Diagnostik: Mit erweiterter genetischer Diagnostik
+ZE2021-88;Komplexe neuropädiatrische Diagnostik mit weiteren Maßnahmen;1-942.3;Komplexe neuropädiatrische Diagnostik: Mit neurometabolischer Labordiagnostik und/oder infektiologischer/autoimmunentzündlicher Labordiagnostik und erweiterter genetischer Diagnostik
+ZE2021-91;Gabe von Dasatinib, oral;6-004.3*;Applikation von Medikamenten, Liste 4: Dasatinib, oral
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.6*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Rekombinanter aktivierter Faktor VII
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.7*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor VII
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.8*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Rekombinanter Faktor VIII
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.9*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor VIII
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.a*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Rekombinanter Faktor IX
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.b*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor IX
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.c*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: FEIBA - Prothrombinkomplex mit Faktor-VIII-Inhibitor-Bypass-Aktivität
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.d*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Von-Willebrand-Faktor
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.e*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Faktor XIII
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-810.j*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Fibrinogenkonzentrat
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-812.5*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Prothrombinkomplex
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-812.9*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Humanes Protein C, parenteral
+ZE2021-97,;Behandlung von Blutern mit Blutgerinnungsfaktoren;8-812.a*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor X
+ZE2021-99;Fremdbezug von Donor-Lymphozyten;;Fremdbezug von Donor-Lymphozyten über Spenderdateien bei nicht-verwandten Spendern oder Bezug von Donor-Lymphozyten von außerhalb Deutschlands bei Familienspendern
+ZE2021-101;Gabe von Mifamurtid, parenteral;6-005.g*;Applikation von Medikamenten, Liste 5: Mifamurtid, parenteral
+ZE2021-103;Gabe von Rituximab, subkutan;6-001.j*;Applikation von Medikamenten, Liste 1: Rituximab, subkutan
+ZE2021-104;Gabe von Trastuzumab, subkutan;6-001.m*;Applikation von Medikamenten, Liste 1: Trastuzumab, subkutan
+ZE2021-106;Gabe von Abatacept, subkutan;6-003.t*;Applikation von Medikamenten, Liste 3: Abatacept, subkutan
+ZE2021-107;Medikamente-freisetzende bioresorbierbare Koronarstents;8-83d.0*;Andere perkutan-transluminale Gefäßintervention an Herz und Koronargefäßen: Einlegen eines medikamentefreisetzenden bioresorbierbaren Stents
+ZE2021-108;Implantation einer Irisprothese;5-137.6;Andere Operationen an der Iris: Operation mit Implantation eines künstlichen Irisdiaphragmas
+ZE2021-109,;Dialyse mit High-Cut-off-Dialysemembran;8-854.8;Hämodialyse: Verlängert intermittierend, zur Elimination von Proteinen mit einer Molekularmasse bis 60.000
+ZE2021-110;Gabe von Tocilizumab, subkutan;6-005.n*;Applikation von Medikamenten, Liste 5: Tocilizumab, subkutan
+ZE2021-111;Gabe von Paclitaxel, als an Albumin gebundene Nanopartikel, parenteral;6-005.d*;Applikation von Medikamenten, Liste 5: Paclitaxel, als an Albumin gebundene Nanopartikel, parenteral
+ZE2021-112;Gabe von Abirateron, oral;6-006.2*;Applikation von Medikamenten, Liste 6: Abirateron, oral
+ZE2021-113;Gabe von Cabazitaxel, parenteral;6-006.1*;Applikation von Medikamenten, Liste 6: Cabazitaxel, parenteral
+ZE2021-115;Molekulares Monitoring der Resttumorlast [MRD]: Molekulargenetische Identifikation und Herstellung von patientenspezifischen Markern;1-991.0;Molekulares Monitoring der Resttumorlast [MRD]: Molekulargenetische Identifikation und Herstellung von patientenspezifischen Markern für die Bestimmung der Resttumorlast (Minimal Residual Diseases (MRD))
+ZE2021-116;Molekulares Monitoring der Resttumorlast [MRD]: Patientenspezifische molekulargenetische Quantifizierung;1-991.1;Molekulares Monitoring der Resttumorlast [MRD]: Patientenspezifische molekulargenetische Quantifizierung der Resttumorlast (MRD-Monitoring)
+ZE2021-117;Chemosaturations-Therapie mittels perkutaner Leberperfusion;8-549.01;Perkutane geschlossene Organperfusion mit Chemotherapeutika: Leber: Mit externem Blutfilter
+ZE2021-118;Neurostimulatoren zur Hirnstimulation, Einkanalstimulator;5-028.90;Implantation oder Wechsel eines Neurostimulators zur Hirnstimulation mit Implantation oder Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar
+ZE2021-118;Neurostimulatoren zur Hirnstimulation, Einkanalstimulator;5-028.a0;Wechsel eines Neurostimulators zur Hirnstimulation ohne Wechsel einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar
+ZE2021-118;Neurostimulatoren zur Hirnstimulation, Einkanalstimulator;5-028.c0;Implantation eines Neurostimulators zur Hirnstimulation ohne Implantation einer Neurostimulationselektrode: Einkanalstimulator, vollimplantierbar, nicht wiederaufladbar
+ZE2021-119;Distraktionsmarknagel, nicht motorisiert;5-786.j0;Osteosyntheseverfahren: Durch internes Verlängerungs- oder Knochentransportsystem: Nicht motorisiert
+ZE2021-119;Distraktionsmarknagel, nicht motorisiert;5-78a.j0;Revision von Osteosynthesematerial mit Reosteosynthese: Durch internes Verlängerungs- oder Knochentransportsystem: Nicht motorisiert
+ZE2021-120;Gabe von Pemetrexed, parenteral;6-001.c*;Applikation von Medikamenten, Liste 1: Pemetrexed, parenteral
+ZE2021-121;Gabe von Etanercept, parenteral;6-002.b*;Applikation von Medikamenten, Liste 2: Etanercept, parenteral
+ZE2021-122;Gabe von Imatinib, oral;6-001.g*;Applikation von Medikamenten, Liste 1: Imatinib, oral
+ZE2021-123;Gabe von Caspofungin, parenteral;6-002.p*;Applikation von Medikamenten, Liste 2: Caspofungin, parenteral
+ZE2021-124;Gabe von Voriconazol, oral;6-002.5*;Applikation von Medikamenten, Liste 2: Voriconazol, oral
+ZE2021-125;Gabe von Voriconazol, parenteral;6-002.r*;Applikation von Medikamenten, Liste 2: Voriconazol, parenteral
+ZE2021-127;Gabe von L-Asparaginase aus Erwinia chrysanthemi [Erwinase], parenteral;6-003.r*;Applikation von Medikamenten, Liste 3: L-Asparaginase aus Erwinia chrysanthemi [Erwinase], parenteral
+ZE2021-128;Gabe von nicht pegylierter Asparaginase, parenteral;6-003.n*;Applikation von Medikamenten, Liste 3: Nicht pegylierte Asparaginase, parenteral
+ZE2021-129;Gabe von pegylierter Asparaginase, parenteral;6-003.p*;Applikation von Medikamenten, Liste 3: Pegylierte Asparaginase, parenteral
+ZE2021-130;Gabe von Belimumab, parenteral;6-006.6*;Applikation von Medikamenten, Liste 6: Belimumab, parenteral
+ZE2021-131;Gabe von Defibrotid, parenteral;6-005.k*;Applikation von Medikamenten, Liste 5: Defibrotid, parenteral
+ZE2021-132;Gabe von Thiotepa, parenteral;6-007.n*;Applikation von Medikamenten, Liste 7: Thiotepa, parenteral
+ZE2021-133;Spezialisierte palliativmedizinische Komplexbehandlung durch einen internen Palliativdienst;8-98h.0*;Spezialisierte palliativmedizinische Komplexbehandlung durch einen Palliativdienst: Durch einen internen Palliativdienst
+ZE2021-134;Spezialisierte palliativmedizinische Komplexbehandlung durch einen externen Palliativdienst;8-98h.1*;Spezialisierte palliativmedizinische Komplexbehandlung durch einen Palliativdienst: Durch einen externen Palliativdienst
+ZE2021-135;Basisdiagnostik bei unklarem Symptomkomplex bei Neugeborenen und Säuglingen mit weiteren Maßnahmen;;Basisdiagnostik bei unklarem Symptomkomplex bei Neugeborenen und Säuglingen
+ZE2021-135;Basisdiagnostik bei unklarem Symptomkomplex bei Neugeborenen und Säuglingen mit weiteren Maßnahmen;1-944.10;Mit erweiterter molekulargenetischer Diagnostik
+ZE2021-135;Basisdiagnostik bei unklarem Symptomkomplex bei Neugeborenen und Säuglingen mit weiteren Maßnahmen;1-944.20;Mit Chromosomenanalyse (Zytogenetische Diagnostik)
+ZE2021-135;Basisdiagnostik bei unklarem Symptomkomplex bei Neugeborenen und Säuglingen mit weiteren Maßnahmen;1-944.30;Mit erweiterter molekulargenetischer Diagnostik und Chromosomenanalyse (Zytogenetische Diagnostik)
+ZE2021-136;Einlegen von endobronchialen Nitinolspiralen;5-339.8*;Andere Operationen an Lunge und Bronchien: Einlegen von endobronchialen Nitinolspiralen, bronchoskopisch
+ZE2021-137,,;Gabe von rekombinantem aktiviertem Faktor VII;8-810.6*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Rekombinanter aktivierter Faktor VII
+ZE2021-138,,;Gabe von Fibrinogenkonzentrat;8-810.j*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Fibrinogenkonzentrat
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.7*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor VII
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.8*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Rekombinanter Faktor VIII
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.9*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor VIII
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.a*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Rekombinanter Faktor IX
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.b*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor IX
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.c*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: FEIBA - Prothrombinkomplex mit Faktor-VIII-Inhibitor-Bypass-Aktivität
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.d*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Von-Willebrand-Faktor
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-810.e*;Transfusion von Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Faktor XIII
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-812.9*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Humanes Protein C, parenteral
+ZE2021-139,,;Gabe von Blutgerinnungsfaktoren;8-812.a*;Transfusion von Plasma und anderen Plasmabestandteilen und gentechnisch hergestellten Plasmaproteinen: Plasmatischer Faktor X
+ZE2021-140;Gabe von Brentuximab Vedotin, parenteral;6-006.b*;Applikation von Medikamenten, Liste 6: Brentuximab Vedotin, parenteral
+ZE2021-141;Gabe von Enzalutamid, oral;6-007.6*;Applikation von Medikamenten, Liste 7: Enzalutamid, oral
+ZE2021-142;Gabe von Aflibercept, intravenös;6-007.3*;Applikation von Medikamenten, Liste 7: Aflibercept, intravenös
+ZE2021-143;Gabe von Eltrombopag, oral;6-006.0*;Applikation von Medikamenten, Liste 6: Eltrombopag, oral
+ZE2021-144;Gabe von Obinutuzumab, parenteral;6-007.j*;Applikation von Medikamenten, Liste 7: Obinutuzumab, parenteral
+ZE2021-145;Gabe von Ibrutinib, oral;6-007.e*;Applikation von Medikamenten, Liste 7: Ibrutinib, oral
+ZE2021-146;Gabe von Ramucirumab, parenteral;6-007.m*;Applikation von Medikamenten, Liste 7: Ramucirumab, parenteral
+ZE2021-147;Gabe von Bortezomib, parenteral;6-001.9*;Applikation von Medikamenten, Liste 1: Bortezomib, parenteral
+ZE2021-148;Gabe von Adalimumab, parenteral;6-001.d*;Applikation von Medikamenten, Liste 1: Adalimumab, parenteral
+ZE2021-149;Gabe von Infliximab, parenteral;6-001.e*;Applikation von Medikamenten, Liste 1: Infliximab, parenteral
+ZE2021-150;Gabe von Busulfan, parenteral;6-002.d*;Applikation von Medikamenten, Liste 2: Busulfan, parenteral
+ZE2021-151;Gabe von Rituximab, intravenös;6-001.h*;Applikation von Medikamenten, Liste 1: Rituximab, intravenös
+ZE2021-152;Mehrdimensionale pädiatrische Diagnostik;1-945.*;Diagnostik bei Verdacht auf Gefährdung von Kindeswohl und Kindergesundheit
+ZE2021-153;Gabe von Trastuzumab, intravenös;6-001.k*;Applikation von Medikamenten, Liste 1: Trastuzumab, intravenös
+ZE2021-154;Gabe von Anidulafungin, parenteral;6-003.k*;Applikation von Medikamenten, Liste 3: Anidulafungin, parenteral
+ZE2021-155,;Gabe von Palifermin, parenteral;6-003.2*;Applikation von Medikamenten, Liste 3: Palifermin, parenteral
+ZE2021-156;Gabe von Posaconazol, parenteral;6-007.k*;Applikation von Medikamenten, Liste 7: Posaconazol, parenteral
+ZE2021-157;Gabe von Pixantron, parenteral;6-006.e*;Applikation von Medikamenten, Liste 6: Pixantron, parenteral
+ZE2021-158;Gabe von Pertuzumab, parenteral;6-007.9*;Applikation von Medikamenten, Liste 7: Pertuzumab, parenteral
+ZE2021-159;Gabe von Blinatumomab, parenteral;6-008.7*;Applikation von Medikamenten, Liste 8: Blinatumomab, parenteral
+ZE2021-160;Gabe von Pembrolizumab, parenteral;6-009.3*;Applikation von Medikamenten, Liste 9: Pembrolizumab, parenteral
+ZE2021-161;Gabe von Nivolumab, parenteral;6-008.m*;Applikation von Medikamenten, Liste 8: Nivolumab, parenteral
+ZE2021-162;Gabe von Carfilzomib, parenteral;6-008.9*;Applikation von Medikamenten, Liste 8: Carfilzomib, parenteral
+ZE2021-163;Gabe von Macitentan, oral;6-007.h*;Applikation von Medikamenten, Liste 7: Macitentan, oral
+ZE2021-164;Gabe von Riociguat, oral;6-008.0*;Applikation von Medikamenten, Liste 8: Riociguat, oral
+ZE2021-165;Gabe von Nusinersen, intrathekal;6-00a.d;Applikation von Medikamenten, Liste 10: Nusinersen, intrathekal
+ZE2021-166;Gabe von Isavuconazol, parenteral;6-008.g*;Applikation von Medikamenten, Liste 8: Isavuconazol, parenteral
+ZE2021-167;Gabe von Isavuconazol, oral;6-008.h*;Applikation von Medikamenten, Liste 8: Isavuconazol, oral
+ZE2021-168;Gabe von Daratumumab, parenteral;6-009.a*;Applikation von Medikamenten, Liste 9: Daratumumab, parenteral
+ZE2021-169;Gabe von Liposomalem Irinotecan, parenteral;6-009.e*;Applikation von Medikamenten, Liste 9: Liposomales Irinotecan, parenteral
+ZE2021-170;Gabe von Bevacizumab, parenteral;6-002.9*;Applikation von Medikamenten, Liste 2: Bevacizumab, parenteral
+ZE2021-171;Gabe von Clofarabin, parenteral;6-003.j*;Applikation von Medikamenten, Liste 3: Clofarabin, parenteral
+ZE2021-172;Gabe von Posaconazol, oral, Suspension;6-007.0*;Applikation von Medikamenten, Liste 7: Posaconazol, oral, Suspension
+ZE2021-173;Gabe von Posaconazol, oral, Tabletten;6-007.p*;Applikation von Medikamenten, Liste 7: Posaconazol, oral, Tabletten
+ZE2021-174,;Gabe von Liposomalem Cytarabin, intrathekal;6-002.a*;Applikation von Medikamenten, Liste 2: Liposomales Cytarabin, intrathekal
+ZE2021-175,;Gabe von Filgrastim, parenteral;6-002.1*;Applikation von Medikamenten, Liste 2: Filgrastim, parenteral
+ZE2021-176,;Gabe von Lenograstim, parenteral;6-002.2*;Applikation von Medikamenten, Liste 2: Lenograstim, parenteral
+ZE2021-177,;Gabe von Pegfilgrastim, parenteral;6-002.7*;Applikation von Medikamenten, Liste 2: Pegfilgrastim, parenteral
+ZE2021-178,;Gabe von Lipegfilgrastim, parenteral;6-007.7*;Applikation von Medikamenten, Liste 7: Lipegfilgrastim, parenteral
+ZE2021-179,;Gabe von Ofatumumab, parenteral;6-006.4*;Applikation von Medikamenten, Liste 6: Ofatumumab, parenteral
+ZE2021-180;Gabe von Azacytidin, parenteral;6-005.0*;Applikation von Medikamenten, Liste 5: Azacytidin, parenteral
+ZE2021-181;Gabe von Ustekinumab, parenteral;6-005.j*;Applikation von Medikamenten, Liste 5: Ustekinumab, parenteral
+ZE2021-182;Gabe von Vedolizumab, parenteral;6-008.5*;Applikation von Medikamenten, Liste 8: Vedolizumab, parenteral
+ZE2021-183;Gabe von Elotuzumab, parenteral;6-009.d*;Applikation von Medikamenten, Liste 9: Elotuzumab, parenteral
+ZE2021-184;Gabe von Atezolizumab, parenteral;6-00a.1*;Applikation von Medikamenten, Liste 10: Atezolizumab, parenteral
+ZE2021-185;Gabe von Ocrelizumab, parenteral;6-00a.e*;Applikation von Medikamenten, Liste 10: Ocrelizumab, parenteral
+ZE2021-186;Gabe von Venetoclax, oral;6-00a.k*;Applikation von Medikamenten, Liste 10: Venetoclax, oral
+ZE2021-187;Neurostimulatoren zur Hypoglossusnerv-Stimulation;5-059.c7;Andere Operationen an Nerven und Ganglien: Implantation oder Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems mit Implantation oder Wechsel einer Neurostimulationselektrode: System zur Hypoglossusnerv-Stimulation
+ZE2021-187;Neurostimulatoren zur Hypoglossusnerv-Stimulation;5-059.d7;Andere Operationen an Nerven und Ganglien: Wechsel eines Neurostimulators zur Stimulation des peripheren Nervensystems ohne Wechsel einer Neurostimulationselektrode: System zur Hypoglossusnerv-Stimulation
+ZE2021-188,;Patientenindividuell hergestellte Stent-Prothesen an der Aorta, ohne Öffnung;5-38a.70;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracica: Stent-Prothese, ohne Öffnung
+ZE2021-188,;Patientenindividuell hergestellte Stent-Prothesen an der Aorta, ohne Öffnung;5-38a.80;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracoabdominalis: Stent-Prothese, ohne Öffnung
+ZE2021-188,;Patientenindividuell hergestellte Stent-Prothesen an der Aorta, ohne Öffnung;5-38a.c0;Endovaskuläre Implantation von Stent-Prothesen: Aorta abdominalis: Stent-Prothese, ohne Öffnung
+ZE2021-188,;Patientenindividuell hergestellte Stent-Prothesen an der Aorta, ohne Öffnung;5-38a.w;Endovaskuläre Implantation von Stent-Prothesen: Patientenindividuell hergestellte Stent-Prothesen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.7b;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracica: Stent-Prothese, mit 1 Öffnung
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.7c;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracica: Stent-Prothese, mit 2 Öffnungen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.7d;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracica: Stent-Prothese, mit 3 oder mehr Öffnungen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.8c;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracoabdominalis: Stent-Prothese, mit 1 Öffnung
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.8d;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracoabdominalis: Stent-Prothese, mit 2 Öffnungen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.8e;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracoabdominalis: Stent-Prothese, mit 3 Öffnungen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.8f;Endovaskuläre Implantation von Stent-Prothesen: Aorta thoracoabdominalis: Stent-Prothese, mit 4 oder mehr Öffnungen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.c1;Endovaskuläre Implantation von Stent-Prothesen: Aorta abdominalis: Stent-Prothese, mit 1 Öffnung
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.c2;Endovaskuläre Implantation von Stent-Prothesen: Aorta abdominalis: Stent-Prothese, mit 2 Öffnungen
+ZE2021-189;Stent-Prothesen an der Aorta, mit Öffnung;5-38a.c3;Endovaskuläre Implantation von Stent-Prothesen: Aorta abdominalis: Stent-Prothese, mit 3 oder mehr Öffnungen
+ZE2021-190;Längerfristige Beatmungsentwöhnung;8-718.8*;Prolongierte Beatmungsentwöhnung auf spezialisierter intensivmedizinischer Beatmungsentwöhnungs-Einheit
+ZE2021-190;Längerfristige Beatmungsentwöhnung;8-718.9*;Prolongierte Beatmungsentwöhnung auf spezialisierter nicht intensivmedizinischer Beatmungsentwöhnungs-Einheit
